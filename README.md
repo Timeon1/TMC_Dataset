@@ -5,11 +5,11 @@ TMC(Travel Management Companies)，资料集，中国国内机场城市列表（
 
 | 文件列表                     | JSON | 
 |:--------------------------------|:-----|
-| 中国城市三字码(按首字母拼音分组) | [citys-cn-code.json](https://github.com/Timeon1/TMC_Dataset/citys-cn-code.json) |
-| 航司二字码(全球 共计934条) | [airline.json](https://github.com/Timeon1/TMC_Dataset/airline.json) |
-| 航司二字码(中国 共计43条) | [airline-cn.json](https://github.com/Timeon1/TMC_Dataset/airline-cn.json) |
-| 航司Logo图片(中国 共计40张) | [asserts/airlineCnImg](https://github.com/Timeon1/TMC_Dataset/asserts/airlineCnImg) |
-| 机型三字码 | [planeThreeCode.json](https://github.com/Timeon1/TMC_Dataset/planeThreeCode.json) |
+| 中国城市三字码(按首字母拼音分组) | [citys-cn-code.json](https://github.com/Timeon1/TMC_Dataset/blob/master/citys-cn-code.json) |
+| 航司二字码(全球 共计934条) | [airline.json](https://github.com/Timeon1/TMC_Dataset/blob/master/airline.json) |
+| 航司二字码(中国 共计43条) | [airline-cn.json](https://github.com/Timeon1/TMC_Dataset/blob/master/airline-cn.json) |
+| 航司Logo图片(中国 共计40张) | [asserts/airlineCnImg](https://github.com/Timeon1/TMC_Dataset/tree/master/asserts/airlineCnImg) |
+| 机型三字码 | [planeThreeCode.json](https://github.com/Timeon1/TMC_Dataset/blob/master/planeThreeCode.json) |
 
 
 ***中国城市三字码预览***

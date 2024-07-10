@@ -56,7 +56,7 @@ TMC(Travel Management Companies)，资料集，中国国内机场城市列表（
 ```
 ***航司LOGO预览***
 
-![image](https://github.com/Timeon1/asserts/airlineCnImg/MU.svg)
+![image](https://github.com/Timeon1/TMC_Dataset/blob/master/asserts/airlineCnImg/MU.svg)
 
 ***机型三字码预览***
 ```json

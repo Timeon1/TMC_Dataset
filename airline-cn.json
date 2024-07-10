@@ -1,0 +1,217 @@
+[
+  {
+    "value": "A6",
+    "text": "湖南航空(A6)",
+    "filterText": "A6,湖南航空,湖南航空,Air Travel"
+  },
+  {
+    "value": "AQ",
+    "text": "九元航空(AQ)",
+    "filterText": "AQ,九元航空,九元航空,9 Air"
+  },
+  {
+    "value": "BK",
+    "text": "奥凯航空(BK)",
+    "filterText": "BK,奥凯航空,奥凯航空,Okay Airways"
+  },
+  {
+    "value": "CA",
+    "text": "中国国航(CA)",
+    "filterText": "CA,中国国航,中国国航,Air China"
+  },
+  {
+    "value": "CN",
+    "text": "大新华航空(CN)",
+    "filterText": "CN,大新华航空,大新华航空,Grand China Air"
+  },
+  {
+    "value": "CZ",
+    "text": "南方航空(CZ)",
+    "filterText": "CZ,南方航空,南方航空,China Southern Airlines"
+  },
+  {
+    "value": "DR",
+    "text": "瑞丽航空(DR)",
+    "filterText": "DR,瑞丽航空,瑞丽航空,Ruili Airlines"
+  },
+  {
+    "value": "DZ",
+    "text": "东海航空(DZ)",
+    "filterText": "DZ,东海航空,东海航空,Donghai Airlines"
+  },
+  {
+    "value": "EU",
+    "text": "成都航空(EU)",
+    "filterText": "EU,成都航空,成都航空,Chengdu Airlines"
+  },
+  {
+    "value": "FM",
+    "text": "上海航空(FM)",
+    "filterText": "FM,上海航空,上海航空,Shanghai Airlines"
+  },
+  {
+    "value": "G5",
+    "text": "华夏航空(G5)",
+    "filterText": "G5,华夏航空,华夏航空,China Express Airlines"
+  },
+  {
+    "value": "FU",
+    "text": "福州航空(FU)",
+    "filterText": "FU,福州航空,福州航空,Fuzhou Airlines"
+  },
+  {
+    "value": "GJ",
+    "text": "长龙航空(GJ)",
+    "filterText": "GJ,长龙航空,长龙航空,Loong Air"
+  },
+  {
+    "value": "GS",
+    "text": "海航旗下天津航空(GS)",
+    "filterText": "GS,海航旗下天津航空,海航旗下天津航空,Tianjin Airlines"
+  },
+  {
+    "value": "GT",
+    "text": "桂林航空(GT)",
+    "filterText": "GT,桂林航空,桂林航空,Air Guilin"
+  },
+  {
+    "value": "GX",
+    "text": "海航旗下北部湾航空(GX)",
+    "filterText": "GX,海航旗下北部湾航空,海航旗下北部湾航空,GX Airlines"
+  },
+  {
+    "value": "GY",
+    "text": "多彩贵州航空(GY)",
+    "filterText": "GY,多彩贵州航空,多彩贵州航空,Colorful Guizhou Airlines"
+  },
+  {
+    "value": "HO",
+    "text": "吉祥航空(HO)",
+    "filterText": "HO,吉祥航空,吉祥航空,Juneyao Airlines"
+  },
+  {
+    "value": "HU",
+    "text": "海南航空(HU)",
+    "filterText": "HU,海南航空,海南航空,Hainan Airlines"
+  },
+  {
+    "value": "JD",
+    "text": "海航旗下首都航空(JD)",
+    "filterText": "JD,海航旗下首都航空,海航旗下首都航空,Beijing Capital Airlines"
+  },
+  {
+    "value": "JR",
+    "text": "幸福航空(JR)",
+    "filterText": "JR,幸福航空,幸福航空,JoyAir"
+  },
+  {
+    "value": "KN",
+    "text": "中国联航(KN)",
+    "filterText": "KN,中国联航,中国联航,China United Airlines"
+  },
+  {
+    "value": "KY",
+    "text": "昆明航空(KY)",
+    "filterText": "KY,昆明航空,昆明航空,Kunming Airlines"
+  },
+  {
+    "value": "MF",
+    "text": "厦门航空(MF)",
+    "filterText": "MF,厦门航空,厦门航空,Xiamen Airlines"
+  },
+  {
+    "value": "MU",
+    "text": "东方航空(MU)",
+    "filterText": "MU,东方航空,东方航空,China Eastern Airlines"
+  },
+  {
+    "value": "NS",
+    "text": "河北航空(NS)",
+    "filterText": "NS,河北航空,河北航空,Hebei Airlines"
+  },
+  {
+    "value": "OQ",
+    "text": "重庆航空(OQ)",
+    "filterText": "OQ,重庆航空,重庆航空,Chongqing Airlines"
+  },
+  {
+    "value": "PN",
+    "text": "中国西部航空(PN)",
+    "filterText": "PN,中国西部航空,中国西部航空,China West Air"
+  },
+  {
+    "value": "QW",
+    "text": "青岛航空(QW)",
+    "filterText": "QW,青岛航空,青岛航空,QINGDAO AIRLINES"
+  },
+  {
+    "value": "RY",
+    "text": "江西航空(RY)",
+    "filterText": "RY,江西航空,江西航空,Jiangxi Air"
+  },
+  {
+    "value": "SC",
+    "text": "山东航空(SC)",
+    "filterText": "SC,山东航空,山东航空,Shandong Airlines"
+  },
+  {
+    "value": "TV",
+    "text": "西藏航空(TV)",
+    "filterText": "TV,西藏航空,西藏航空,Tibet Airlines"
+  },
+  {
+    "value": "UQ",
+    "text": "乌鲁木齐航空(UQ)",
+    "filterText": "UQ,乌鲁木齐航空,乌鲁木齐航空,Urumqi Air"
+  },
+  {
+    "value": "VD",
+    "text": "河南航空(VD)",
+    "filterText": "VD,河南航空,河南航空,Henan Air"
+  },
+  {
+    "value": "Y8",
+    "text": "金鹏航空(Y8)",
+    "filterText": "Y8,金鹏航空,金鹏航空,Suparna Airlines"
+  },
+  {
+    "value": "ZH",
+    "text": "深圳航空(ZH)",
+    "filterText": "ZH,深圳航空,深圳航空,Shenzhen Airlines"
+  },
+  {
+    "value": "ZO",
+    "text": "七彩通航(ZO)",
+    "filterText": "ZO,七彩通航,七彩通航,Colorful Yunnan General"
+  },
+  {
+    "value": "3U",
+    "text": "四川航空(3U)",
+    "filterText": "3U,四川航空,四川航空,Sichuan Airlines"
+  },
+  {
+    "value": "8C",
+    "text": "东星航空(8C)",
+    "filterText": "8C,东星航空,东星航空,East Star Airlines"
+  },
+  {
+    "value": "8L",
+    "text": "海航旗下祥鹏航空(8L)",
+    "filterText": "8L,海航旗下祥鹏航空,海航旗下祥鹏航空,Lucky Air"
+  },
+  {
+    "value": "9C",
+    "text": "春秋航空(9C)",
+    "filterText": "9C,春秋航空,春秋航空,Spring Airlines"
+  },
+  {
+    "value": "9D",
+    "text": "天骄航空(9D)",
+    "filterText": "9D,天骄航空,天骄航空,Genghis Khan Airlines"
+  },
+  {
+    "value": "9H",
+    "text": "海航旗下长安航空(9H)",
+    "filterText": "9H,海航旗下长安航空,海航旗下长安航空,Air Changan"
+  }
+]

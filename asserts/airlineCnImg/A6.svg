@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>B1湖南航空LOGO</title>
+    <defs>
+        <polygon id="path-1" points="0 0 12.6086063 0 12.6086063 6.62650835 0 6.62650835"></polygon>
+        <polygon id="path-3" points="0 0 15.2183074 0 15.2183074 6.53340491 0 6.53340491"></polygon>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BOOK1" transform="translate(-28.000000, -1777.000000)">
+            <g id="编组-39" transform="translate(0.000000, 1480.000000)">
+                <g id="共享航班" transform="translate(28.000000, 201.000000)">
+                    <g id="基础信息" transform="translate(0.000000, 92.000000)">
+                        <g id="B1湖南航空LOGO" transform="translate(0.000000, 4.000000)">
+                            <rect id="矩形" x="0" y="0" width="20" height="20"></rect>
+                            <g id="编组" transform="translate(0.000000, 4.000000)">
+                                <g>
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <g id="Clip-2"></g>
+                                    <path d="M12.6086063,6.62650835 L5.80512421,0.772488852 C5.22522063,0.273477395 4.49295553,0 3.73654652,0 L-5.99848536e-05,0 L4.90745087,6.62650835 L12.6086063,6.62650835 Z" id="Fill-1" fill="#D6003A" mask="url(#mask-2)"></path>
+                                </g>
+                                <g transform="translate(4.781693, 5.466595)">
+                                    <mask id="mask-4" fill="white">
+                                        <use xlink:href="#path-3"></use>
+                                    </mask>
+                                    <g id="Clip-4"></g>
+                                    <path d="M13.3484295,0.144038774 C13.025561,-0.0697792343 12.6050672,-0.0434181101 12.3097918,0.208939553 L12.0927966,0.394392375 C11.5142427,0.889087391 10.7852767,1.15994409 10.0326168,1.15994409 L3.9793952,1.15994409 L0,6.53345116 L3.04153201,6.53345116 C3.647529,6.53345116 4.23403091,6.31439176 4.69876356,5.91450429 L7.96358919,3.10527173 C9.25716257,1.99224649 10.8904002,1.38224082 12.5774742,1.38224082 L15.2183074,1.38224082 L13.3484295,0.144038774 Z" id="Fill-3" fill="#91999E" mask="url(#mask-4)"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

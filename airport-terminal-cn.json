@@ -1,0 +1,3432 @@
+{
+  "hot": [
+    {
+      "Label": "热门机场",
+      "AirPorts": [
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T3",
+          "Longitude": 116.613638,
+          "Latitude": 40.065329
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T2",
+          "Longitude": 116.594548,
+          "Latitude": 40.079904
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T1",
+          "Longitude": 116.58788,
+          "Latitude": 40.081558
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T1 (国内出发)",
+          "Longitude": 116.588057,
+          "Latitude": 40.080519
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T1 (国内到达)",
+          "Longitude": 116.588057,
+          "Latitude": 40.080519
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T1 (5号停车场)",
+          "Longitude": 116.586319,
+          "Latitude": 40.079475
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T2 (国内出发)",
+          "Longitude": 116.59364,
+          "Latitude": 40.080113
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T2 (国内到达)",
+          "Longitude": 116.593635,
+          "Latitude": 40.079915
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T2 (停车场)",
+          "Longitude": 116.591828,
+          "Latitude": 40.080326
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T2 (国际港澳台出发)",
+          "Longitude": 116.593856,
+          "Latitude": 40.078619
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T2 (国际港澳台到达)",
+          "Longitude": 116.59405,
+          "Latitude": 40.078857
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T3 (国内出发)",
+          "Longitude": 116.614601,
+          "Latitude": 40.054837
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T3 (国内到达)",
+          "Longitude": 116.615953,
+          "Latitude": 40.054912
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T3 (国际港澳台出发)",
+          "Longitude": 116.616638,
+          "Latitude": 40.054748
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T3 (3号停车场)",
+          "Longitude": 116.615462,
+          "Latitude": 40.053627
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T3 (停车场)",
+          "Longitude": 116.621987,
+          "Latitude": 40.053166
+        },
+        {
+          "AirportName": "大兴国际机场",
+          "AirportCode": "PKX",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "航站楼",
+          "Longitude": 116.416902,
+          "Latitude": 39.511093
+        },
+        {
+          "AirportName": "大兴国际机场",
+          "AirportCode": "PKX",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "P3停车楼",
+          "Longitude": 116.416295,
+          "Latitude": 39.515159
+        },
+        {
+          "AirportName": "大兴国际机场",
+          "AirportCode": "PKX",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "P1停车楼",
+          "Longitude": 116.414325,
+          "Latitude": 39.514861
+        },
+        {
+          "AirportName": "白云国际机场",
+          "AirportCode": "CAN",
+          "CityName": "广州",
+          "CityCode": "440100",
+          "Terminal": "T2",
+          "Longitude": 113.305359,
+          "Latitude": 23.396017
+        },
+        {
+          "AirportName": "白云国际机场",
+          "AirportCode": "CAN",
+          "CityName": "广州",
+          "CityCode": "440100",
+          "Terminal": "T1",
+          "Longitude": 113.30307,
+          "Latitude": 23.386628
+        },
+        {
+          "AirportName": "白云国际机场",
+          "AirportCode": "CAN",
+          "CityName": "广州",
+          "CityCode": "440100",
+          "Terminal": "T1 (南国内出发)",
+          "Longitude": 113.302094,
+          "Latitude": 23.385909
+        },
+        {
+          "AirportName": "白云国际机场",
+          "AirportCode": "CAN",
+          "CityName": "广州",
+          "CityCode": "440100",
+          "Terminal": "T1 (南国际、港澳台出发)",
+          "Longitude": 113.303794,
+          "Latitude": 23.385372
+        },
+        {
+          "AirportName": "白云国际机场",
+          "AirportCode": "CAN",
+          "CityName": "广州",
+          "CityCode": "440100",
+          "Terminal": "T1 (A区国内到达)",
+          "Longitude": 113.305478,
+          "Latitude": 23.38667
+        },
+        {
+          "AirportName": "白云国际机场",
+          "AirportCode": "CAN",
+          "CityName": "广州",
+          "CityCode": "440100",
+          "Terminal": "T1 (B区国内到达)",
+          "Longitude": 113.300953,
+          "Latitude": 23.386623
+        },
+        {
+          "AirportName": "白云国际机场",
+          "AirportCode": "CAN",
+          "CityName": "广州",
+          "CityCode": "440100",
+          "Terminal": "T2 (国内出发)",
+          "Longitude": 113.304672,
+          "Latitude": 23.396206
+        },
+        {
+          "AirportName": "萧山国际机场",
+          "AirportCode": "HGH",
+          "CityName": "杭州",
+          "CityCode": "330100",
+          "Terminal": "T3",
+          "Longitude": 120.43612,
+          "Latitude": 30.236164
+        },
+        {
+          "AirportName": "萧山国际机场",
+          "AirportCode": "HGH",
+          "CityName": "杭州",
+          "CityCode": "330100",
+          "Terminal": "T2",
+          "Longitude": 120.436419,
+          "Latitude": 30.232743
+        },
+        {
+          "AirportName": "萧山国际机场",
+          "AirportCode": "HGH",
+          "CityName": "杭州",
+          "CityCode": "330100",
+          "Terminal": "T1",
+          "Longitude": 120.436306,
+          "Latitude": 30.236889
+        },
+        {
+          "AirportName": "浦东国际机场",
+          "AirportCode": "PVG",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2",
+          "Longitude": 121.809431,
+          "Latitude": 31.151069
+        },
+        {
+          "AirportName": "浦东国际机场",
+          "AirportCode": "PVG",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T1",
+          "Longitude": 121.802999,
+          "Latitude": 31.149487
+        },
+        {
+          "AirportName": "浦东国际机场",
+          "AirportCode": "PVG",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (国内出发)",
+          "Longitude": 121.808118,
+          "Latitude": 31.151526
+        },
+        {
+          "AirportName": "浦东国际机场",
+          "AirportCode": "PVG",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (国际港澳台出发)",
+          "Longitude": 121.808905,
+          "Latitude": 31.149461
+        },
+        {
+          "AirportName": "浦东国际机场",
+          "AirportCode": "PVG",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (国内到达)",
+          "Longitude": 121.808118,
+          "Latitude": 31.151526
+        },
+        {
+          "AirportName": "浦东国际机场",
+          "AirportCode": "PVG",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (国际港澳台到达)",
+          "Longitude": 121.808905,
+          "Latitude": 31.149461
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (出发南)",
+          "Longitude": 121.327843,
+          "Latitude": 31.192462
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T1",
+          "Longitude": 121.34726,
+          "Latitude": 31.195412
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (出发北)",
+          "Longitude": 121.325606,
+          "Latitude": 31.195008
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (出发4号门)",
+          "Longitude": 121.327639,
+          "Latitude": 31.193437
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (P7停车场)",
+          "Longitude": 121.326658,
+          "Latitude": 31.192403
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (P6停车场)",
+          "Longitude": 121.326179,
+          "Latitude": 31.195514
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (南到达)",
+          "Longitude": 121.326189,
+          "Latitude": 31.193689
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T1 (国内出发)",
+          "Longitude": 121.346537,
+          "Latitude": 31.194227
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T1 (A楼国内出发)",
+          "Longitude": 121.348142,
+          "Latitude": 31.194923
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T1 (P2停车场)",
+          "Longitude": 121.347448,
+          "Latitude": 31.192607
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T1 (国内到达)",
+          "Longitude": 121.346545,
+          "Latitude": 31.194193
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T1 (P1地下停车场)",
+          "Longitude": 121.348264,
+          "Latitude": 31.194389
+        },
+        {
+          "AirportName": "宝安国际机场",
+          "AirportCode": "SZX",
+          "CityName": "深圳",
+          "CityCode": "440300",
+          "Terminal": "T3",
+          "Longitude": 113.81184,
+          "Latitude": 22.627554
+        },
+        {
+          "AirportName": "宝安国际机场",
+          "AirportCode": "SZX",
+          "CityName": "深圳",
+          "CityCode": "440300",
+          "Terminal": "T3 (国内出发)",
+          "Longitude": 113.814858,
+          "Latitude": 22.624943
+        },
+        {
+          "AirportName": "宝安国际机场",
+          "AirportCode": "SZX",
+          "CityName": "深圳",
+          "CityCode": "440300",
+          "Terminal": "T3 (国际/港澳台出发)",
+          "Longitude": 113.813643,
+          "Latitude": 22.624441
+        },
+        {
+          "AirportName": "宝安国际机场",
+          "AirportCode": "SZX",
+          "CityName": "深圳",
+          "CityCode": "440300",
+          "Terminal": "T3 (国际/港澳台到达)",
+          "Longitude": 113.814016,
+          "Latitude": 22.625095
+        },
+        {
+          "AirportName": "新郑国际机场",
+          "AirportCode": "CGO",
+          "CityName": "郑州",
+          "CityCode": "410100",
+          "Terminal": "T2",
+          "Longitude": 113.855025,
+          "Latitude": 34.525264
+        }
+      ]
+    }
+  ],
+  "abcd": [
+    {
+      "Label": "A",
+      "AirPorts": [
+        {
+          "AirportName": "伊尔施机场",
+          "AirportCode": "YIE",
+          "CityName": "阿尔山",
+          "CityCode": "152200",
+          "Longitude": 119.91948,
+          "Latitude": 47.311868
+        },
+        {
+          "AirportName": "阿克苏机场",
+          "AirportCode": "AKU",
+          "CityName": "阿克苏",
+          "CityCode": "652900",
+          "Terminal": "T1",
+          "Longitude": 80.29857,
+          "Latitude": 41.259487
+        },
+        {
+          "AirportName": "阿克苏机场",
+          "AirportCode": "AKU",
+          "CityName": "阿克苏",
+          "CityCode": "652900",
+          "Terminal": "T2",
+          "Longitude": 80.301236,
+          "Latitude": 41.258598
+        },
+        {
+          "AirportName": "阿拉善右旗机场",
+          "AirportCode": "RHT",
+          "CityName": "阿拉善右旗",
+          "CityCode": "152900",
+          "Longitude": 101.551155,
+          "Latitude": 39.225695
+        },
+        {
+          "AirportName": "阿拉善左旗机场",
+          "AirportCode": "AXF",
+          "CityName": "阿拉善左旗",
+          "CityCode": "152900",
+          "Longitude": 105.58847,
+          "Latitude": 38.748802
+        },
+        {
+          "AirportName": "阿勒泰机场",
+          "AirportCode": "AAT",
+          "CityName": "阿勒泰",
+          "CityCode": "654300",
+          "Longitude": 88.089367,
+          "Latitude": 47.751566
+        },
+        {
+          "AirportName": "阿里昆莎机场",
+          "AirportCode": "NGQ",
+          "CityName": "阿里",
+          "CityCode": "542500",
+          "Longitude": 80.056148,
+          "Latitude": 32.099063
+        },
+        {
+          "AirportName": "安康富强机场",
+          "AirportCode": "AKA",
+          "CityName": "安康",
+          "CityCode": "610900",
+          "Longitude": 108.880817,
+          "Latitude": 32.750323
+        },
+        {
+          "AirportName": "天柱山机场",
+          "AirportCode": "AQG",
+          "CityName": "安庆",
+          "CityCode": "340800",
+          "Longitude": 117.05542,
+          "Latitude": 30.580748
+        },
+        {
+          "AirportName": "黄果树机场",
+          "AirportCode": "AVA",
+          "CityName": "安顺",
+          "CityCode": "520400",
+          "Longitude": 105.877769,
+          "Latitude": 26.2568
+        },
+        {
+          "AirportName": "腾鳌机场",
+          "AirportCode": "AOG",
+          "CityName": "鞍山",
+          "CityCode": "210300",
+          "Longitude": 122.860453,
+          "Latitude": 41.106123
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "AirPorts": [
+        {
+          "AirportName": "天吉泰机场",
+          "AirportCode": "RLK",
+          "CityName": "巴彦淖尔",
+          "CityCode": "150800",
+          "Longitude": 107.744703,
+          "Latitude": 40.927155
+        },
+        {
+          "AirportName": "恩阳机场",
+          "AirportCode": "BZX",
+          "CityName": "巴中",
+          "CityCode": "511900",
+          "Longitude": 106.648103,
+          "Latitude": 31.736611
+        },
+        {
+          "AirportName": "长安机场",
+          "AirportCode": "DBC",
+          "CityName": "白城",
+          "CityCode": "220800",
+          "Longitude": 123.02606,
+          "Latitude": 45.507995
+        },
+        {
+          "AirportName": "长白山机场",
+          "AirportCode": "NBS",
+          "CityName": "白山",
+          "CityCode": "220600",
+          "Longitude": 127.609248,
+          "Latitude": 42.068798
+        },
+        {
+          "AirportName": "百色巴马机场",
+          "AirportCode": "AEB",
+          "CityName": "百色",
+          "CityCode": "451000",
+          "Longitude": 106.964393,
+          "Latitude": 23.718216
+        },
+        {
+          "AirportName": "包头东河机场",
+          "AirportCode": "BAV",
+          "CityName": "包头",
+          "CityCode": "150200",
+          "Longitude": 110.004778,
+          "Latitude": 40.561607
+        },
+        {
+          "AirportName": "保山云瑞机场",
+          "AirportCode": "BSD",
+          "CityName": "保山",
+          "CityCode": "530500",
+          "Longitude": 99.167978,
+          "Latitude": 25.049548
+        },
+        {
+          "AirportName": "福成机场",
+          "AirportCode": "BHY",
+          "CityName": "北海",
+          "CityCode": "450500",
+          "Longitude": 109.29612,
+          "Latitude": 21.536506
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T3",
+          "Longitude": 116.613638,
+          "Latitude": 40.065329
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T2",
+          "Longitude": 116.594548,
+          "Latitude": 40.079904
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T1",
+          "Longitude": 116.58788,
+          "Latitude": 40.081558
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T1 (国内出发)",
+          "Longitude": 116.588057,
+          "Latitude": 40.080519
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T1 (国内到达)",
+          "Longitude": 116.588057,
+          "Latitude": 40.080519
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T1 (5号停车场)",
+          "Longitude": 116.586319,
+          "Latitude": 40.079475
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T2 (国内出发)",
+          "Longitude": 116.59364,
+          "Latitude": 40.080113
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T2 (国内到达)",
+          "Longitude": 116.593635,
+          "Latitude": 40.079915
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T2 (停车场)",
+          "Longitude": 116.591828,
+          "Latitude": 40.080326
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T2 (国际港澳台出发)",
+          "Longitude": 116.593856,
+          "Latitude": 40.078619
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T2 (国际港澳台到达)",
+          "Longitude": 116.59405,
+          "Latitude": 40.078857
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T3 (国内出发)",
+          "Longitude": 116.614601,
+          "Latitude": 40.054837
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T3 (国内到达)",
+          "Longitude": 116.615953,
+          "Latitude": 40.054912
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T3 (国际港澳台出发)",
+          "Longitude": 116.616638,
+          "Latitude": 40.054748
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T3 (3号停车场)",
+          "Longitude": 116.615462,
+          "Latitude": 40.053627
+        },
+        {
+          "AirportName": "首都国际机场",
+          "AirportCode": "PEK",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "T3 (停车场)",
+          "Longitude": 116.621987,
+          "Latitude": 40.053166
+        },
+        {
+          "AirportName": "大兴国际机场",
+          "AirportCode": "PKX",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "航站楼",
+          "Longitude": 116.416902,
+          "Latitude": 39.511093
+        },
+        {
+          "AirportName": "大兴国际机场",
+          "AirportCode": "PKX",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "P3停车楼",
+          "Longitude": 116.416295,
+          "Latitude": 39.515159
+        },
+        {
+          "AirportName": "大兴国际机场",
+          "AirportCode": "PKX",
+          "CityName": "北京",
+          "CityCode": "110000",
+          "Terminal": "P1停车楼",
+          "Longitude": 116.414325,
+          "Latitude": 39.514861
+        },
+        {
+          "AirportName": "飞雄机场",
+          "AirportCode": "BFJ",
+          "CityName": "毕节",
+          "CityCode": "520500",
+          "Longitude": 105.477022,
+          "Latitude": 27.263751
+        },
+        {
+          "AirportName": "博乐阿拉山口机场",
+          "AirportCode": "BPL",
+          "CityName": "博乐",
+          "CityCode": "652700",
+          "Longitude": 82.303656,
+          "Latitude": 44.898283
+        },
+        {
+          "AirportName": "布尔津喀纳斯机场",
+          "AirportCode": "KJI",
+          "CityName": "布尔津",
+          "CityCode": "654300",
+          "Longitude": 87.000724,
+          "Latitude": 48.222971
+        }
+      ]
+    },
+    {
+      "Label": "C",
+      "AirPorts": [
+        {
+          "AirportName": "沧源佤山机场",
+          "AirportCode": "CWJ",
+          "CityName": "沧源",
+          "CityCode": "530900",
+          "Longitude": 99.368368,
+          "Latitude": 23.263798
+        },
+        {
+          "AirportName": "邦达机场",
+          "AirportCode": "BPX",
+          "CityName": "昌都",
+          "CityCode": "540300",
+          "Longitude": 97.110848,
+          "Latitude": 30.549176
+        },
+        {
+          "AirportName": "龙嘉国际机场",
+          "AirportCode": "CGQ",
+          "CityName": "长春",
+          "CityCode": "220100",
+          "Terminal": "T2",
+          "Longitude": 125.701349,
+          "Latitude": 43.997587
+        },
+        {
+          "AirportName": "龙嘉国际机场",
+          "AirportCode": "CGQ",
+          "CityName": "长春",
+          "CityCode": "220100",
+          "Terminal": "T1",
+          "Longitude": 125.696414,
+          "Latitude": 43.995152
+        },
+        {
+          "AirportName": "黄花国际机场",
+          "AirportCode": "CSX",
+          "CityName": "长沙",
+          "CityCode": "430100",
+          "Terminal": "T2",
+          "Longitude": 113.220293,
+          "Latitude": 28.18663
+        },
+        {
+          "AirportName": "黄花国际机场",
+          "AirportCode": "CSX",
+          "CityName": "长沙",
+          "CityCode": "430100",
+          "Terminal": "T1",
+          "Longitude": 113.220262,
+          "Latitude": 28.193413
+        },
+        {
+          "AirportName": "长治王村机场",
+          "AirportCode": "CIH",
+          "CityName": "长治",
+          "CityCode": "140400",
+          "Longitude": 113.131795,
+          "Latitude": 36.247418
+        },
+        {
+          "AirportName": "桃花源机场",
+          "AirportCode": "CGD",
+          "CityName": "常德",
+          "CityCode": "430700",
+          "Longitude": 111.643644,
+          "Latitude": 28.916308
+        },
+        {
+          "AirportName": "常州奔牛国际机场",
+          "AirportCode": "CZX",
+          "CityName": "常州",
+          "CityCode": "320400",
+          "Longitude": 119.78746,
+          "Latitude": 31.914019
+        },
+        {
+          "AirportName": "朝阳机场",
+          "AirportCode": "CHG",
+          "CityName": "朝阳",
+          "CityCode": "211300",
+          "Longitude": 120.441105,
+          "Latitude": 41.542591
+        },
+        {
+          "AirportName": "双流国际机场",
+          "AirportCode": "CTU",
+          "CityName": "成都",
+          "CityCode": "510100",
+          "Terminal": "T2",
+          "Longitude": 103.955194,
+          "Latitude": 30.569798
+        },
+        {
+          "AirportName": "双流国际机场",
+          "AirportCode": "CTU",
+          "CityName": "成都",
+          "CityCode": "510100",
+          "Terminal": "T1",
+          "Longitude": 103.956727,
+          "Latitude": 30.579524
+        },
+        {
+          "AirportName": "双流国际机场",
+          "AirportCode": "CTU",
+          "CityName": "成都",
+          "CityCode": "510100",
+          "Terminal": "T2 (国内出发)",
+          "Longitude": 103.956703,
+          "Latitude": 30.571276
+        },
+        {
+          "AirportName": "双流国际机场",
+          "AirportCode": "CTU",
+          "CityName": "成都",
+          "CityCode": "510100",
+          "Terminal": "T2 (国内到达)",
+          "Longitude": 103.95661,
+          "Latitude": 30.57108
+        },
+        {
+          "AirportName": "双流国际机场",
+          "AirportCode": "CTU",
+          "CityName": "成都",
+          "CityCode": "510100",
+          "Terminal": "T1 (国内出发)",
+          "Longitude": 103.958512,
+          "Latitude": 30.578013
+        },
+        {
+          "AirportName": "双流国际机场",
+          "AirportCode": "CTU",
+          "CityName": "成都",
+          "CityCode": "510100",
+          "Terminal": "T1 (国内到达)",
+          "Longitude": 103.958343,
+          "Latitude": 30.577823
+        },
+        {
+          "AirportName": "普宁机场",
+          "AirportCode": "CDE",
+          "CityName": "承德",
+          "CityCode": "130800",
+          "Longitude": 118.083697,
+          "Latitude": 41.123944
+        },
+        {
+          "AirportName": "九华山机场",
+          "AirportCode": "JUH",
+          "CityName": "池州",
+          "CityCode": "341700",
+          "Longitude": 117.690862,
+          "Latitude": 30.73819
+        },
+        {
+          "AirportName": "玉龙机场",
+          "AirportCode": "CIF",
+          "CityName": "赤峰",
+          "CityCode": "150400",
+          "Longitude": 118.846896,
+          "Latitude": 42.159804
+        },
+        {
+          "AirportName": "天府国际机场",
+          "AirportCode": "TFU",
+          "CityName": "成都",
+          "CityCode": "510100",
+          "Terminal": "T2",
+          "Longitude": 104.445899,
+          "Latitude": 30.309694
+        }
+      ]
+    },
+    {
+      "Label": "D",
+      "AirPorts": [
+        {
+          "AirportName": "达州河市机场",
+          "AirportCode": "DAX",
+          "CityName": "达州",
+          "CityCode": "511700",
+          "Longitude": 107.434073,
+          "Latitude": 31.128683
+        },
+        {
+          "AirportName": "大理机场",
+          "AirportCode": "DLU",
+          "CityName": "大理",
+          "CityCode": "532900",
+          "Longitude": 100.320886,
+          "Latitude": 25.647103
+        },
+        {
+          "AirportName": "周水子国际机场",
+          "AirportCode": "DLC",
+          "CityName": "大连",
+          "CityCode": "210200",
+          "Longitude": 121.542932,
+          "Latitude": 38.964141
+        },
+        {
+          "AirportName": "萨尔图机场",
+          "AirportCode": "DQA",
+          "CityName": "大庆",
+          "CityCode": "230600",
+          "Longitude": 125.142936,
+          "Latitude": 46.752023
+        },
+        {
+          "AirportName": "云冈机场",
+          "AirportCode": "DAT",
+          "CityName": "大同",
+          "CityCode": "140200",
+          "Terminal": "T2",
+          "Longitude": 113.487023,
+          "Latitude": 40.057833
+        },
+        {
+          "AirportName": "云冈机场",
+          "AirportCode": "DAT",
+          "CityName": "大同",
+          "CityCode": "140200",
+          "Terminal": "T1",
+          "Longitude": 113.488727,
+          "Latitude": 40.056919
+        },
+        {
+          "AirportName": "浪头机场",
+          "AirportCode": "DDG",
+          "CityName": "丹东",
+          "CityCode": "210600",
+          "Longitude": 124.289926,
+          "Latitude": 40.026548
+        },
+        {
+          "AirportName": "亚丁机场",
+          "AirportCode": "DCY",
+          "CityName": "稻城",
+          "CityCode": "513300",
+          "Longitude": 100.063001,
+          "Latitude": 29.312684
+        },
+        {
+          "AirportName": "德令哈机场",
+          "AirportCode": "HXD",
+          "CityName": "德令哈",
+          "CityCode": "632800",
+          "Longitude": 97.269892,
+          "Latitude": 37.126188
+        },
+        {
+          "AirportName": "香格里拉机场",
+          "AirportCode": "DIG",
+          "CityName": "迪庆",
+          "CityCode": "533400",
+          "Longitude": 99.679936,
+          "Latitude": 27.789495
+        },
+        {
+          "AirportName": "胜利机场",
+          "AirportCode": "DOY",
+          "CityName": "东营",
+          "CityCode": "370500",
+          "Longitude": 118.792199,
+          "Latitude": 37.506091
+        },
+        {
+          "AirportName": "敦煌莫高国际机场",
+          "AirportCode": "DNH",
+          "CityName": "敦煌",
+          "CityCode": "620900",
+          "Terminal": "T2",
+          "Longitude": 94.804956,
+          "Latitude": 40.166308
+        },
+        {
+          "AirportName": "敦煌莫高国际机场",
+          "AirportCode": "DNH",
+          "CityName": "敦煌",
+          "CityCode": "620900",
+          "Terminal": "T3",
+          "Longitude": 94.806727,
+          "Latitude": 40.166412
+        },
+        {
+          "AirportName": "达州金垭机场",
+          "AirportCode": "DZH",
+          "CityName": "达州",
+          "CityCode": "511700",
+          "Longitude": 107.444663,
+          "Latitude": 31.043391
+        }
+      ]
+    }
+  ],
+  "efgh": [
+    {
+      "Label": "E",
+      "AirPorts": [
+        {
+          "AirportName": "桃来机场",
+          "AirportCode": "EJN",
+          "CityName": "额济纳旗",
+          "CityCode": "152900",
+          "Longitude": 101.002417,
+          "Latitude": 42.016776
+        },
+        {
+          "AirportName": "伊金霍洛机场",
+          "AirportCode": "DSN",
+          "CityName": "鄂尔多斯",
+          "CityCode": "150600",
+          "Terminal": "T2",
+          "Longitude": 109.866417,
+          "Latitude": 39.500467
+        },
+        {
+          "AirportName": "许家坪机场",
+          "AirportCode": "ENH",
+          "CityName": "恩施",
+          "CityCode": "422800",
+          "Longitude": 109.489727,
+          "Latitude": 30.318935
+        },
+        {
+          "AirportName": "二连浩特赛乌素机场",
+          "AirportCode": "ERL",
+          "CityName": "二连浩特",
+          "CityCode": "152500",
+          "Longitude": 112.099704,
+          "Latitude": 43.426714
+        }
+      ]
+    },
+    {
+      "Label": "F",
+      "AirPorts": [
+        {
+          "AirportName": "沙堤机场",
+          "AirportCode": "FUO",
+          "CityName": "佛山",
+          "CityCode": "440600",
+          "Longitude": 113.075983,
+          "Latitude": 23.080913
+        },
+        {
+          "AirportName": "长乐国际机场",
+          "AirportCode": "FOC",
+          "CityName": "福州",
+          "CityCode": "350100",
+          "Longitude": 119.669917,
+          "Latitude": 25.929797
+        },
+        {
+          "AirportName": "东极机场",
+          "AirportCode": "FYJ",
+          "CityName": "抚远",
+          "CityCode": "230800",
+          "Longitude": 134.371892,
+          "Latitude": 48.201219
+        },
+        {
+          "AirportName": "阜阳西关机场",
+          "AirportCode": "FUG",
+          "CityName": "阜阳",
+          "CityCode": "341200",
+          "Longitude": 115.744708,
+          "Latitude": 32.876907
+        },
+        {
+          "AirportName": "富蕴可可托海机场",
+          "AirportCode": "FYN",
+          "CityName": "富蕴",
+          "CityCode": "654300",
+          "Longitude": 89.51592,
+          "Latitude": 46.805579
+        }
+      ]
+    },
+    {
+      "Label": "G",
+      "AirPorts": [
+        {
+          "AirportName": "甘孜格萨尔机场",
+          "AirportCode": "GZG",
+          "CityName": "甘孜",
+          "CityCode": "513300",
+          "Longitude": 99.558841,
+          "Latitude": 31.752892
+        },
+        {
+          "AirportName": "赣州黄金机场",
+          "AirportCode": "KOW",
+          "CityName": "赣州",
+          "CityCode": "360700",
+          "Terminal": "T2",
+          "Longitude": 114.786325,
+          "Latitude": 25.845575
+        },
+        {
+          "AirportName": "赣州黄金机场",
+          "AirportCode": "KOW",
+          "CityName": "赣州",
+          "CityCode": "360700",
+          "Terminal": "T1",
+          "Longitude": 114.783524,
+          "Latitude": 25.84588
+        },
+        {
+          "AirportName": "格尔木机场",
+          "AirportCode": "GOQ",
+          "CityName": "格尔木",
+          "CityCode": "632800",
+          "Longitude": 94.787535,
+          "Latitude": 36.40056
+        },
+        {
+          "AirportName": "六盘山机场",
+          "AirportCode": "GYU",
+          "CityName": "固原",
+          "CityCode": "640400",
+          "Longitude": 106.221947,
+          "Latitude": 36.078552
+        },
+        {
+          "AirportName": "广汉机场",
+          "AirportCode": "GHN",
+          "CityName": "广汉",
+          "CityCode": "510600",
+          "Longitude": 104.331737,
+          "Latitude": 30.945901
+        },
+        {
+          "AirportName": "盘龙机场",
+          "AirportCode": "GYS",
+          "CityName": "广元",
+          "CityCode": "510800",
+          "Longitude": 105.699493,
+          "Latitude": 32.388663
+        },
+        {
+          "AirportName": "白云国际机场",
+          "AirportCode": "CAN",
+          "CityName": "广州",
+          "CityCode": "440100",
+          "Terminal": "T2",
+          "Longitude": 113.305359,
+          "Latitude": 23.396017
+        },
+        {
+          "AirportName": "白云国际机场",
+          "AirportCode": "CAN",
+          "CityName": "广州",
+          "CityCode": "440100",
+          "Terminal": "T1",
+          "Longitude": 113.30307,
+          "Latitude": 23.386628
+        },
+        {
+          "AirportName": "白云国际机场",
+          "AirportCode": "CAN",
+          "CityName": "广州",
+          "CityCode": "440100",
+          "Terminal": "T1 (南国内出发)",
+          "Longitude": 113.302094,
+          "Latitude": 23.385909
+        },
+        {
+          "AirportName": "白云国际机场",
+          "AirportCode": "CAN",
+          "CityName": "广州",
+          "CityCode": "440100",
+          "Terminal": "T1 (南国际、港澳台出发)",
+          "Longitude": 113.303794,
+          "Latitude": 23.385372
+        },
+        {
+          "AirportName": "白云国际机场",
+          "AirportCode": "CAN",
+          "CityName": "广州",
+          "CityCode": "440100",
+          "Terminal": "T1 (A区国内到达)",
+          "Longitude": 113.305478,
+          "Latitude": 23.38667
+        },
+        {
+          "AirportName": "白云国际机场",
+          "AirportCode": "CAN",
+          "CityName": "广州",
+          "CityCode": "440100",
+          "Terminal": "T1 (B区国内到达)",
+          "Longitude": 113.300953,
+          "Latitude": 23.386623
+        },
+        {
+          "AirportName": "白云国际机场",
+          "AirportCode": "CAN",
+          "CityName": "广州",
+          "CityCode": "440100",
+          "Terminal": "T2 (国内出发)",
+          "Longitude": 113.304672,
+          "Latitude": 23.396206
+        },
+        {
+          "AirportName": "龙洞堡国际机场",
+          "AirportCode": "KWE",
+          "CityName": "贵阳",
+          "CityCode": "520100",
+          "Terminal": "T1",
+          "Longitude": 106.800161,
+          "Latitude": 26.540716
+        },
+        {
+          "AirportName": "龙洞堡国际机场",
+          "AirportCode": "KWE",
+          "CityName": "贵阳",
+          "CityCode": "520100",
+          "Terminal": "T2",
+          "Longitude": 106.800848,
+          "Latitude": 26.543877
+        },
+        {
+          "AirportName": "两江国际机场",
+          "AirportCode": "KWL",
+          "CityName": "桂林",
+          "CityCode": "450300",
+          "Terminal": "T2",
+          "Longitude": 110.049933,
+          "Latitude": 25.210097
+        },
+        {
+          "AirportName": "两江国际机场",
+          "AirportCode": "KWL",
+          "CityName": "桂林",
+          "CityCode": "450300",
+          "Terminal": "T1",
+          "Longitude": 110.051313,
+          "Latitude": 25.21531
+        },
+        {
+          "AirportName": "玛沁机场",
+          "AirportCode": "GMQ",
+          "CityName": "果洛",
+          "CityCode": "632600",
+          "Longitude": 100.30182,
+          "Latitude": 34.417486
+        }
+      ]
+    },
+    {
+      "Label": "H",
+      "AirPorts": [
+        {
+          "AirportName": "太平国际机场",
+          "AirportCode": "HRB",
+          "CityName": "哈尔滨",
+          "CityCode": "230100",
+          "Terminal": "T2",
+          "Longitude": 126.240029,
+          "Latitude": 45.621343
+        },
+        {
+          "AirportName": "哈密机场",
+          "AirportCode": "HMI",
+          "CityName": "哈密",
+          "CityCode": "650500",
+          "Longitude": 93.665967,
+          "Latitude": 42.842538
+        },
+        {
+          "AirportName": "美兰国际机场",
+          "AirportCode": "HAK",
+          "CityName": "海口",
+          "CityCode": "460100",
+          "Terminal": "T2",
+          "Longitude": 110.462006,
+          "Latitude": 19.944831
+        },
+        {
+          "AirportName": "美兰国际机场",
+          "AirportCode": "HAK",
+          "CityName": "海口",
+          "CityCode": "460100",
+          "Terminal": "T1",
+          "Longitude": 110.463116,
+          "Latitude": 19.939138
+        },
+        {
+          "AirportName": "东山机场",
+          "AirportCode": "HLD",
+          "CityName": "海拉尔",
+          "CityCode": "150700",
+          "Longitude": 119.824577,
+          "Latitude": 49.212612
+        },
+        {
+          "AirportName": "邯郸机场",
+          "AirportCode": "HDG",
+          "CityName": "邯郸",
+          "CityCode": "130400",
+          "Longitude": 114.430666,
+          "Latitude": 36.524783
+        },
+        {
+          "AirportName": "城固机场",
+          "AirportCode": "HZG",
+          "CityName": "汉中",
+          "CityCode": "610700",
+          "Longitude": 107.207452,
+          "Latitude": 33.131633
+        },
+        {
+          "AirportName": "萧山国际机场",
+          "AirportCode": "HGH",
+          "CityName": "杭州",
+          "CityCode": "330100",
+          "Terminal": "T3",
+          "Longitude": 120.43612,
+          "Latitude": 30.236164
+        },
+        {
+          "AirportName": "萧山国际机场",
+          "AirportCode": "HGH",
+          "CityName": "杭州",
+          "CityCode": "330100",
+          "Terminal": "T2",
+          "Longitude": 120.436419,
+          "Latitude": 30.232743
+        },
+        {
+          "AirportName": "萧山国际机场",
+          "AirportCode": "HGH",
+          "CityName": "杭州",
+          "CityCode": "330100",
+          "Terminal": "T1",
+          "Longitude": 120.436306,
+          "Latitude": 30.236889
+        },
+        {
+          "AirportName": "合肥新桥国际机场",
+          "AirportCode": "HFE",
+          "CityName": "合肥",
+          "CityCode": "340100",
+          "Longitude": 116.969503,
+          "Latitude": 31.986906
+        },
+        {
+          "AirportName": "和田机场",
+          "AirportCode": "HTN",
+          "CityName": "和田",
+          "CityCode": "653200",
+          "Longitude": 79.869164,
+          "Latitude": 37.037985
+        },
+        {
+          "AirportName": "金城江机场",
+          "AirportCode": "HCJ",
+          "CityName": "河池",
+          "CityCode": "451200",
+          "Longitude": 107.715387,
+          "Latitude": 24.800579
+        },
+        {
+          "AirportName": "黑河瑷珲机场",
+          "AirportCode": "HEK",
+          "CityName": "黑河",
+          "CityCode": "231100",
+          "Longitude": 127.316649,
+          "Latitude": 50.174617
+        },
+        {
+          "AirportName": "南岳机场",
+          "AirportCode": "HNY",
+          "CityName": "衡阳",
+          "CityCode": "430400",
+          "Longitude": 112.621995,
+          "Latitude": 26.718615
+        },
+        {
+          "AirportName": "阿坝红原机场",
+          "AirportCode": "AHJ",
+          "CityName": "红原",
+          "CityCode": "513200",
+          "Longitude": 102.354384,
+          "Latitude": 32.529964
+        },
+        {
+          "AirportName": "白塔国际机场",
+          "AirportCode": "HET",
+          "CityName": "呼和浩特",
+          "CityCode": "150100",
+          "Longitude": 111.826401,
+          "Latitude": 40.853491
+        },
+        {
+          "AirportName": "花土沟机场",
+          "AirportCode": "HTT",
+          "CityName": "花土沟",
+          "CityCode": "632800",
+          "Longitude": 90.841851,
+          "Latitude": 38.200007
+        },
+        {
+          "AirportName": "芷江机场",
+          "AirportCode": "HJJ",
+          "CityName": "怀化",
+          "CityCode": "431200",
+          "Longitude": 109.710204,
+          "Latitude": 27.442255
+        },
+        {
+          "AirportName": "淮安涟水国际机场",
+          "AirportCode": "HIA",
+          "CityName": "淮安",
+          "CityCode": "320800",
+          "Longitude": 119.132233,
+          "Latitude": 33.789511
+        },
+        {
+          "AirportName": "黄山屯溪国际机场",
+          "AirportCode": "TXN",
+          "CityName": "黄山",
+          "CityCode": "341000",
+          "Longitude": 118.261074,
+          "Latitude": 29.730415
+        },
+        {
+          "AirportName": "惠州平潭机场",
+          "AirportCode": "HUZ",
+          "CityName": "惠州",
+          "CityCode": "441300",
+          "Longitude": 114.607689,
+          "Latitude": 23.049774
+        },
+        {
+          "AirportName": "霍林河机场",
+          "AirportCode": "HUO",
+          "CityName": "霍林郭勒",
+          "CityCode": "150500",
+          "Longitude": 119.414145,
+          "Latitude": 45.488849
+        }
+      ]
+    }
+  ],
+  "jklm": [
+    {
+      "Label": "J",
+      "AirPorts": [
+        {
+          "AirportName": "兴凯湖机场",
+          "AirportCode": "JXA",
+          "CityName": "鸡西",
+          "CityCode": "230300",
+          "Longitude": 131.199208,
+          "Latitude": 45.296296
+        },
+        {
+          "AirportName": "二台子机场",
+          "AirportCode": "JIL",
+          "CityName": "吉林",
+          "CityCode": "220200",
+          "Longitude": 126.426126,
+          "Latitude": 43.99985
+        },
+        {
+          "AirportName": "遥墙国际机场",
+          "AirportCode": "TNA",
+          "CityName": "济南",
+          "CityCode": "370100",
+          "Terminal": "T2",
+          "Longitude": 117.211144,
+          "Latitude": 36.855665
+        },
+        {
+          "AirportName": "遥墙国际机场",
+          "AirportCode": "TNA",
+          "CityName": "济南",
+          "CityCode": "370100",
+          "Terminal": "T1",
+          "Longitude": 117.213956,
+          "Latitude": 36.851024
+        },
+        {
+          "AirportName": "曲阜机场",
+          "AirportCode": "JNG",
+          "CityName": "济宁",
+          "CityCode": "370800",
+          "Longitude": 116.353294,
+          "Latitude": 35.293605
+        },
+        {
+          "AirportName": "加格达奇嘎仙机场",
+          "AirportCode": "JGD",
+          "CityName": "加格达奇",
+          "CityCode": "232700",
+          "Longitude": 124.124471,
+          "Latitude": 50.374294
+        },
+        {
+          "AirportName": "佳木斯东郊国际机场",
+          "AirportCode": "JMU",
+          "CityName": "佳木斯",
+          "CityCode": "230800",
+          "Longitude": 130.470501,
+          "Latitude": 46.845804
+        },
+        {
+          "AirportName": "嘉峪关机场",
+          "AirportCode": "JGN",
+          "CityName": "嘉峪关",
+          "CityCode": "620200",
+          "Longitude": 98.341373,
+          "Latitude": 39.861589
+        },
+        {
+          "AirportName": "建三江湿地机场",
+          "AirportCode": "JSJ",
+          "CityName": "建三江",
+          "CityCode": "230800",
+          "Longitude": 132.6662,
+          "Latitude": 47.11072
+        },
+        {
+          "AirportName": "潮汕机场",
+          "AirportCode": "SWA",
+          "CityName": "揭阳",
+          "CityCode": "445200",
+          "Longitude": 116.509617,
+          "Latitude": 23.546592
+        },
+        {
+          "AirportName": "金昌金川机场",
+          "AirportCode": "JIC",
+          "CityName": "金昌",
+          "CityCode": "620300",
+          "Longitude": 102.350503,
+          "Latitude": 38.54193
+        },
+        {
+          "AirportName": "锦州湾机场",
+          "AirportCode": "JNZ",
+          "CityName": "锦州",
+          "CityCode": "210700",
+          "Longitude": 121.283535,
+          "Latitude": 40.937206
+        },
+        {
+          "AirportName": "井冈山机场",
+          "AirportCode": "JGS",
+          "CityName": "井冈山",
+          "CityCode": "360800",
+          "Longitude": 114.742471,
+          "Latitude": 26.85326
+        },
+        {
+          "AirportName": "景德镇罗家机场",
+          "AirportCode": "JDZ",
+          "CityName": "景德镇",
+          "CityCode": "360200",
+          "Longitude": 117.18154,
+          "Latitude": 29.336367
+        },
+        {
+          "AirportName": "庐山机场",
+          "AirportCode": "JIU",
+          "CityName": "九江",
+          "CityCode": "360400",
+          "Longitude": 115.805293,
+          "Latitude": 29.474773
+        },
+        {
+          "AirportName": "黄龙机场",
+          "AirportCode": "JZH",
+          "CityName": "九寨沟",
+          "CityCode": "513200",
+          "Longitude": 103.687864,
+          "Latitude": 32.850586
+        },
+        {
+          "AirportName": "荆州沙市机场",
+          "AirportCode": "SHS",
+          "CityName": "荆州",
+          "CityCode": "421000",
+          "Longitude": 112.282045,
+          "Latitude": 30.319408
+        }
+      ]
+    },
+    {
+      "Label": "K",
+      "AirPorts": [
+        {
+          "AirportName": "喀什机场",
+          "AirportCode": "KHG",
+          "CityName": "喀什",
+          "CityCode": "653100",
+          "Longitude": 76.024632,
+          "Latitude": 39.54121
+        },
+        {
+          "AirportName": "凯里黄平机场",
+          "AirportCode": "KJH",
+          "CityName": "凯里",
+          "CityCode": "522600",
+          "Longitude": 107.990629,
+          "Latitude": 26.972581
+        },
+        {
+          "AirportName": "康定机场",
+          "AirportCode": "KGT",
+          "CityName": "康定",
+          "CityCode": "513300",
+          "Longitude": 101.741183,
+          "Latitude": 30.140016
+        },
+        {
+          "AirportName": "克拉玛依机场",
+          "AirportCode": "KRY",
+          "CityName": "克拉玛依",
+          "CityCode": "650200",
+          "Longitude": 84.956741,
+          "Latitude": 45.467303
+        },
+        {
+          "AirportName": "龟兹机场",
+          "AirportCode": "KCA",
+          "CityName": "库车",
+          "CityCode": "652900",
+          "Longitude": 82.875503,
+          "Latitude": 41.679739
+        },
+        {
+          "AirportName": "库尔勒机场",
+          "AirportCode": "KRL",
+          "CityName": "库尔勒",
+          "CityCode": "652800",
+          "Longitude": 86.138043,
+          "Latitude": 41.618911
+        },
+        {
+          "AirportName": "长水国际机场",
+          "AirportCode": "KMG",
+          "CityName": "昆明",
+          "CityCode": "530100",
+          "Terminal": "T2",
+          "Longitude": 102.94641,
+          "Latitude": 25.117034
+        },
+        {
+          "AirportName": "长水国际机场",
+          "AirportCode": "KMG",
+          "CityName": "昆明",
+          "CityCode": "530100",
+          "Terminal": "T1",
+          "Longitude": 102.930057,
+          "Latitude": 25.098317
+        }
+      ]
+    },
+    {
+      "Label": "L",
+      "AirPorts": [
+        {
+          "AirportName": "贡嘎国际机场",
+          "AirportCode": "LXA",
+          "CityName": "拉萨",
+          "CityCode": "540500",
+          "Longitude": 90.910921,
+          "Latitude": 29.293106
+        },
+        {
+          "AirportName": "中川机场",
+          "AirportCode": "LHW",
+          "CityName": "兰州",
+          "CityCode": "620100",
+          "Terminal": "T2",
+          "Longitude": 103.618031,
+          "Latitude": 36.50437
+        },
+        {
+          "AirportName": "中川机场",
+          "AirportCode": "LHW",
+          "CityName": "兰州",
+          "CityCode": "620100",
+          "Terminal": "T1",
+          "Longitude": 103.617841,
+          "Latitude": 36.507658
+        },
+        {
+          "AirportName": "景迈机场",
+          "AirportCode": "JMJ",
+          "CityName": "澜沧",
+          "CityCode": "530800",
+          "Longitude": 99.786026,
+          "Latitude": 22.413377
+        },
+        {
+          "AirportName": "黎平机场",
+          "AirportCode": "HZH",
+          "CityName": "黎平",
+          "CityCode": "522600",
+          "Longitude": 109.15511,
+          "Latitude": 26.31879
+        },
+        {
+          "AirportName": "三义机场",
+          "AirportCode": "LJG",
+          "CityName": "丽江",
+          "CityCode": "530700",
+          "Longitude": 100.24646,
+          "Latitude": 26.671508
+        },
+        {
+          "AirportName": "荔波机场",
+          "AirportCode": "LLB",
+          "CityName": "荔波",
+          "CityCode": "522700",
+          "Longitude": 107.966178,
+          "Latitude": 25.447688
+        },
+        {
+          "AirportName": "连云港花果山机场",
+          "AirportCode": "LYG",
+          "CityName": "连云港",
+          "CityCode": "320700",
+          "Longitude": 119.190689,
+          "Latitude": 34.409745
+        },
+        {
+          "AirportName": "梁平机场",
+          "AirportCode": "LIA",
+          "CityName": "梁平",
+          "CityCode": "500100",
+          "Longitude": 107.769527,
+          "Latitude": 30.643825
+        },
+        {
+          "AirportName": "赤峰玉龙机场",
+          "AirportCode": "LXI",
+          "CityName": "林西",
+          "CityCode": "150400",
+          "Longitude": 118.846896,
+          "Latitude": 42.159804
+        },
+        {
+          "AirportName": "米林机场",
+          "AirportCode": "LZY",
+          "CityName": "林芝",
+          "CityCode": "540400",
+          "Longitude": 94.336848,
+          "Latitude": 29.301581
+        },
+        {
+          "AirportName": "临沧机场",
+          "AirportCode": "LNJ",
+          "CityName": "临沧",
+          "CityCode": "530900",
+          "Longitude": 100.025587,
+          "Latitude": 23.736614
+        },
+        {
+          "AirportName": "临汾尧都机场",
+          "AirportCode": "LFQ",
+          "CityName": "临汾",
+          "CityCode": "141000",
+          "Longitude": 111.645773,
+          "Latitude": 36.133582
+        },
+        {
+          "AirportName": "临沂启阳机场",
+          "AirportCode": "LYI",
+          "CityName": "临沂",
+          "CityCode": "371300",
+          "Longitude": 118.415974,
+          "Latitude": 35.051229
+        },
+        {
+          "AirportName": "白莲机场",
+          "AirportCode": "LZH",
+          "CityName": "柳州",
+          "CityCode": "450200",
+          "Terminal": "T2",
+          "Longitude": 109.404082,
+          "Latitude": 24.201079
+        },
+        {
+          "AirportName": "白莲机场",
+          "AirportCode": "LZH",
+          "CityName": "柳州",
+          "CityCode": "450200",
+          "Terminal": "T1",
+          "Longitude": 109.402894,
+          "Latitude": 24.20289
+        },
+        {
+          "AirportName": "月照机场",
+          "AirportCode": "LPF",
+          "CityName": "六盘水",
+          "CityCode": "520200",
+          "Longitude": 104.981134,
+          "Latitude": 26.605371
+        },
+        {
+          "AirportName": "连城冠豸山机场",
+          "AirportCode": "LCX",
+          "CityName": "龙岩",
+          "CityCode": "350800",
+          "Longitude": 116.751624,
+          "Latitude": 25.673125
+        },
+        {
+          "AirportName": "成县机场",
+          "AirportCode": "LNL",
+          "CityName": "陇南",
+          "CityCode": "621200",
+          "Longitude": 105.794917,
+          "Latitude": 33.787849
+        },
+        {
+          "AirportName": "云龙机场",
+          "AirportCode": "LZO",
+          "CityName": "泸州",
+          "CityCode": "510500",
+          "Longitude": 105.471636,
+          "Latitude": 29.025707
+        },
+        {
+          "AirportName": "吕梁大武机场",
+          "AirportCode": "LLV",
+          "CityName": "吕梁",
+          "CityCode": "141100",
+          "Longitude": 111.148982,
+          "Latitude": 37.682469
+        },
+        {
+          "AirportName": "北郊机场",
+          "AirportCode": "LYA",
+          "CityName": "洛阳",
+          "CityCode": "410300",
+          "Longitude": 112.394278,
+          "Latitude": 34.73975
+        }
+      ]
+    },
+    {
+      "Label": "M",
+      "AirPorts": [
+        {
+          "AirportName": "满洲里西郊国际机场",
+          "AirportCode": "NZH",
+          "CityName": "满洲里",
+          "CityCode": "150700",
+          "Longitude": 117.338166,
+          "Latitude": 49.569694
+        },
+        {
+          "AirportName": "德宏芒市机场",
+          "AirportCode": "LUM",
+          "CityName": "芒市",
+          "CityCode": "533100",
+          "Longitude": 98.531945,
+          "Latitude": 24.399057
+        },
+        {
+          "AirportName": "梅州梅县机场",
+          "AirportCode": "MXZ",
+          "CityName": "梅州",
+          "CityCode": "441400",
+          "Longitude": 116.102902,
+          "Latitude": 24.260405
+        },
+        {
+          "AirportName": "南郊机场",
+          "AirportCode": "MIG",
+          "CityName": "绵阳",
+          "CityCode": "510700",
+          "Longitude": 104.743239,
+          "Latitude": 31.428408
+        },
+        {
+          "AirportName": "漠河古莲机场",
+          "AirportCode": "OHE",
+          "CityName": "漠河",
+          "CityCode": "232700",
+          "Longitude": 122.431893,
+          "Latitude": 52.91824
+        },
+        {
+          "AirportName": "海浪机场",
+          "AirportCode": "MDG",
+          "CityName": "牡丹江",
+          "CityCode": "231000",
+          "Longitude": 129.576814,
+          "Latitude": 44.529501
+        }
+      ]
+    }
+  ],
+  "nopqrs": [
+    {
+      "Label": "N",
+      "AirPorts": [
+        {
+          "AirportName": "昌北国际机场",
+          "AirportCode": "KHN",
+          "CityName": "南昌",
+          "CityCode": "360100",
+          "Terminal": "T2",
+          "Longitude": 115.917296,
+          "Latitude": 28.859214
+        },
+        {
+          "AirportName": "昌北国际机场",
+          "AirportCode": "KHN",
+          "CityName": "南昌",
+          "CityCode": "360100",
+          "Terminal": "T1",
+          "Longitude": 115.912138,
+          "Latitude": 28.85681
+        },
+        {
+          "AirportName": "高坪机场",
+          "AirportCode": "NAO",
+          "CityName": "南充",
+          "CityCode": "511300",
+          "Terminal": "T2",
+          "Longitude": 106.164371,
+          "Latitude": 30.787564
+        },
+        {
+          "AirportName": "高坪机场",
+          "AirportCode": "NAO",
+          "CityName": "南充",
+          "CityCode": "511300",
+          "Terminal": "T1",
+          "Longitude": 106.165725,
+          "Latitude": 30.788239
+        },
+        {
+          "AirportName": "禄口国际机场",
+          "AirportCode": "NKG",
+          "CityName": "南京",
+          "CityCode": "320100",
+          "Terminal": "T1",
+          "Longitude": 118.870471,
+          "Latitude": 31.73301
+        },
+        {
+          "AirportName": "禄口国际机场",
+          "AirportCode": "NKG",
+          "CityName": "南京",
+          "CityCode": "320100",
+          "Terminal": "T2",
+          "Longitude": 118.875764,
+          "Latitude": 31.72999
+        },
+        {
+          "AirportName": "吴圩国际机场",
+          "AirportCode": "NNG",
+          "CityName": "南宁",
+          "CityCode": "450100",
+          "Terminal": "T2",
+          "Longitude": 108.185281,
+          "Latitude": 22.601635
+        },
+        {
+          "AirportName": "兴东国际机场",
+          "AirportCode": "NTG",
+          "CityName": "南通",
+          "CityCode": "320600",
+          "Terminal": "T3",
+          "Longitude": 120.978861,
+          "Latitude": 32.067747
+        },
+        {
+          "AirportName": "兴东国际机场",
+          "AirportCode": "NTG",
+          "CityName": "南通",
+          "CityCode": "320600",
+          "Terminal": "T2",
+          "Longitude": 120.980299,
+          "Latitude": 32.072017
+        },
+        {
+          "AirportName": "兴东国际机场",
+          "AirportCode": "NTG",
+          "CityName": "南通",
+          "CityCode": "320600",
+          "Terminal": "T1",
+          "Longitude": 120.98041,
+          "Latitude": 32.070887
+        },
+        {
+          "AirportName": "姜营机场",
+          "AirportCode": "NNY",
+          "CityName": "南阳",
+          "CityCode": "411300",
+          "Longitude": 112.621833,
+          "Latitude": 32.980482
+        },
+        {
+          "AirportName": "栎社国际机场",
+          "AirportCode": "NGB",
+          "CityName": "宁波",
+          "CityCode": "330200",
+          "Terminal": "T2",
+          "Longitude": 121.461103,
+          "Latitude": 29.819776
+        },
+        {
+          "AirportName": "栎社国际机场",
+          "AirportCode": "NGB",
+          "CityName": "宁波",
+          "CityCode": "330200",
+          "Terminal": "T1",
+          "Longitude": 121.466411,
+          "Latitude": 29.818779
+        },
+        {
+          "AirportName": "泸沽湖机场",
+          "AirportCode": "NLH",
+          "CityName": "宁蒗",
+          "CityCode": "530700",
+          "Longitude": 100.76156,
+          "Latitude": 27.538409
+        }
+      ]
+    },
+    {
+      "Label": "P",
+      "AirPorts": [
+        {
+          "AirportName": "保安营机场",
+          "AirportCode": "PZI",
+          "CityName": "攀枝花",
+          "CityCode": "510400",
+          "Longitude": 101.799344,
+          "Latitude": 26.534465
+        },
+        {
+          "AirportName": "思茅机场",
+          "AirportCode": "SYM",
+          "CityName": "普洱",
+          "CityCode": "530800",
+          "Longitude": 100.960477,
+          "Latitude": 22.790816
+        }
+      ]
+    },
+    {
+      "Label": "Q",
+      "AirPorts": [
+        {
+          "AirportName": "海北祁连机场",
+          "AirportCode": "HBQ",
+          "CityName": "祁连",
+          "CityCode": "632200",
+          "Longitude": 100.645707,
+          "Latitude": 38.009296
+        },
+        {
+          "AirportName": "三家子机场",
+          "AirportCode": "NDG",
+          "CityName": "齐齐哈尔",
+          "CityCode": "230200",
+          "Longitude": 123.924555,
+          "Latitude": 47.242308
+        },
+        {
+          "AirportName": "武陵山机场",
+          "AirportCode": "JIQ",
+          "CityName": "黔江",
+          "CityCode": "500100",
+          "Longitude": 108.835761,
+          "Latitude": 29.51244
+        },
+        {
+          "AirportName": "且末机场",
+          "AirportCode": "IQM",
+          "CityName": "且末",
+          "CityCode": "652800",
+          "Longitude": 85.535451,
+          "Latitude": 38.144079
+        },
+        {
+          "AirportName": "北戴河机场",
+          "AirportCode": "BPE",
+          "CityName": "秦皇岛",
+          "CityCode": "130300",
+          "Longitude": 119.066878,
+          "Latitude": 39.666642
+        },
+        {
+          "AirportName": "青岛胶东国际机场",
+          "AirportCode": "TAO",
+          "CityName": "青岛",
+          "CityCode": "370200",
+          "Longitude": 120.093607,
+          "Latitude": 36.35991
+        },
+        {
+          "AirportName": "庆阳机场",
+          "AirportCode": "IQN",
+          "CityName": "庆阳",
+          "CityCode": "621000",
+          "Longitude": 107.604647,
+          "Latitude": 35.802427
+        },
+        {
+          "AirportName": "博鳌机场",
+          "AirportCode": "BAR",
+          "CityName": "琼海",
+          "CityCode": "469000",
+          "Longitude": 110.458806,
+          "Latitude": 19.139802
+        },
+        {
+          "AirportName": "衢州机场",
+          "AirportCode": "JUZ",
+          "CityName": "衢州",
+          "CityCode": "330800",
+          "Longitude": 118.901835,
+          "Latitude": 28.962981
+        },
+        {
+          "AirportName": "晋江机场",
+          "AirportCode": "JJN",
+          "CityName": "泉州",
+          "CityCode": "350500",
+          "Longitude": 118.593047,
+          "Latitude": 24.794712
+        }
+      ]
+    },
+    {
+      "Label": "R",
+      "AirPorts": [
+        {
+          "AirportName": "和平机场",
+          "AirportCode": "RKZ",
+          "CityName": "日喀则",
+          "CityCode": "540200",
+          "Longitude": 89.309555,
+          "Latitude": 29.347273
+        },
+        {
+          "AirportName": "山字河机场",
+          "AirportCode": "RIZ",
+          "CityName": "日照",
+          "CityCode": "371100",
+          "Longitude": 119.329604,
+          "Latitude": 35.402304
+        },
+        {
+          "AirportName": "楼兰机场",
+          "AirportCode": "RQA",
+          "CityName": "若羌",
+          "CityCode": "652800",
+          "Longitude": 88.010233,
+          "Latitude": 38.973323
+        }
+      ]
+    },
+    {
+      "Label": "S",
+      "AirPorts": [
+        {
+          "AirportName": "三明沙县机场",
+          "AirportCode": "SQJ",
+          "CityName": "三明",
+          "CityCode": "350400",
+          "Longitude": 117.839822,
+          "Latitude": 26.422263
+        },
+        {
+          "AirportName": "凤凰国际机场",
+          "AirportCode": "SYX",
+          "CityName": "三亚",
+          "CityCode": "460200",
+          "Terminal": "T1",
+          "Longitude": 109.41162,
+          "Latitude": 18.307717
+        },
+        {
+          "AirportName": "莎车机场",
+          "AirportCode": "QSZ",
+          "CityName": "莎车",
+          "CityCode": "653100",
+          "Longitude": 77.060653,
+          "Latitude": 38.244343
+        },
+        {
+          "AirportName": "浦东国际机场",
+          "AirportCode": "PVG",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2",
+          "Longitude": 121.809431,
+          "Latitude": 31.151069
+        },
+        {
+          "AirportName": "浦东国际机场",
+          "AirportCode": "PVG",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T1",
+          "Longitude": 121.802999,
+          "Latitude": 31.149487
+        },
+        {
+          "AirportName": "浦东国际机场",
+          "AirportCode": "PVG",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (国内出发)",
+          "Longitude": 121.808118,
+          "Latitude": 31.151526
+        },
+        {
+          "AirportName": "浦东国际机场",
+          "AirportCode": "PVG",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (国际港澳台出发)",
+          "Longitude": 121.808905,
+          "Latitude": 31.149461
+        },
+        {
+          "AirportName": "浦东国际机场",
+          "AirportCode": "PVG",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (国内到达)",
+          "Longitude": 121.808118,
+          "Latitude": 31.151526
+        },
+        {
+          "AirportName": "浦东国际机场",
+          "AirportCode": "PVG",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (国际港澳台到达)",
+          "Longitude": 121.808905,
+          "Latitude": 31.149461
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (出发南)",
+          "Longitude": 121.327843,
+          "Latitude": 31.192462
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T1",
+          "Longitude": 121.34726,
+          "Latitude": 31.195412
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (出发北)",
+          "Longitude": 121.325606,
+          "Latitude": 31.195008
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (出发4号门)",
+          "Longitude": 121.327639,
+          "Latitude": 31.193437
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (P7停车场)",
+          "Longitude": 121.326658,
+          "Latitude": 31.192403
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (P6停车场)",
+          "Longitude": 121.326179,
+          "Latitude": 31.195514
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T2 (南到达)",
+          "Longitude": 121.326189,
+          "Latitude": 31.193689
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T1 (国内出发)",
+          "Longitude": 121.346537,
+          "Latitude": 31.194227
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T1 (A楼国内出发)",
+          "Longitude": 121.348142,
+          "Latitude": 31.194923
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T1 (P2停车场)",
+          "Longitude": 121.347448,
+          "Latitude": 31.192607
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T1 (国内到达)",
+          "Longitude": 121.346545,
+          "Latitude": 31.194193
+        },
+        {
+          "AirportName": "虹桥国际机场",
+          "AirportCode": "SHA",
+          "CityName": "上海",
+          "CityCode": "310000",
+          "Terminal": "T1 (P1地下停车场)",
+          "Longitude": 121.348264,
+          "Latitude": 31.194389
+        },
+        {
+          "AirportName": "三清山机场",
+          "AirportCode": "SQD",
+          "CityName": "上饶",
+          "CityCode": "361100",
+          "Longitude": 117.968916,
+          "Latitude": 28.376753
+        },
+        {
+          "AirportName": "武冈机场",
+          "AirportCode": "WGN",
+          "CityName": "邵阳",
+          "CityCode": "430500",
+          "Longitude": 110.6455,
+          "Latitude": 26.801155
+        },
+        {
+          "AirportName": "宝安国际机场",
+          "AirportCode": "SZX",
+          "CityName": "深圳",
+          "CityCode": "440300",
+          "Terminal": "T3",
+          "Longitude": 113.81184,
+          "Latitude": 22.627554
+        },
+        {
+          "AirportName": "宝安国际机场",
+          "AirportCode": "SZX",
+          "CityName": "深圳",
+          "CityCode": "440300",
+          "Terminal": "T3 (国内出发)",
+          "Longitude": 113.814858,
+          "Latitude": 22.624943
+        },
+        {
+          "AirportName": "宝安国际机场",
+          "AirportCode": "SZX",
+          "CityName": "深圳",
+          "CityCode": "440300",
+          "Terminal": "T3 (国际/港澳台出发)",
+          "Longitude": 113.813643,
+          "Latitude": 22.624441
+        },
+        {
+          "AirportName": "宝安国际机场",
+          "AirportCode": "SZX",
+          "CityName": "深圳",
+          "CityCode": "440300",
+          "Terminal": "T3 (国际/港澳台到达)",
+          "Longitude": 113.814016,
+          "Latitude": 22.625095
+        },
+        {
+          "AirportName": "红坪机场",
+          "AirportCode": "HPG",
+          "CityName": "神农架",
+          "CityCode": "429000",
+          "Longitude": 110.34524,
+          "Latitude": 31.62303
+        },
+        {
+          "AirportName": "桃仙国际机场",
+          "AirportCode": "SHE",
+          "CityName": "沈阳",
+          "CityCode": "210100",
+          "Terminal": "T3",
+          "Longitude": 123.492584,
+          "Latitude": 41.634301
+        },
+        {
+          "AirportName": "武当山机场",
+          "AirportCode": "WDS",
+          "CityName": "十堰",
+          "CityCode": "420300",
+          "Longitude": 110.913024,
+          "Latitude": 32.588998
+        },
+        {
+          "AirportName": "花园机场",
+          "AirportCode": "SHF",
+          "CityName": "石河子",
+          "CityCode": "654200",
+          "Longitude": 85.895281,
+          "Latitude": 44.243677
+        },
+        {
+          "AirportName": "正定国际机场",
+          "AirportCode": "SJW",
+          "CityName": "石家庄",
+          "CityCode": "130100",
+          "Terminal": "T2",
+          "Longitude": 114.692241,
+          "Latitude": 38.283878
+        },
+        {
+          "AirportName": "正定国际机场",
+          "AirportCode": "SJW",
+          "CityName": "石家庄",
+          "CityCode": "130100",
+          "Terminal": "T1",
+          "Longitude": 114.698603,
+          "Latitude": 38.278272
+        },
+        {
+          "AirportName": "查干湖机场",
+          "AirportCode": "YSQ",
+          "CityName": "松原",
+          "CityCode": "220700",
+          "Longitude": 124.558024,
+          "Latitude": 44.934141
+        }
+      ]
+    }
+  ],
+  "tuvwx": [
+    {
+      "Label": "T",
+      "AirPorts": [
+        {
+          "AirportName": "塔城机场",
+          "AirportCode": "TCG",
+          "CityName": "塔城",
+          "CityCode": "654200",
+          "Longitude": 83.346995,
+          "Latitude": 46.672501
+        },
+        {
+          "AirportName": "路桥机场",
+          "AirportCode": "HYN",
+          "CityName": "台州",
+          "CityCode": "331000",
+          "Longitude": 121.430928,
+          "Latitude": 28.559308
+        },
+        {
+          "AirportName": "武宿国际机场",
+          "AirportCode": "TYN",
+          "CityName": "太原",
+          "CityCode": "140100",
+          "Terminal": "T2",
+          "Longitude": 112.635841,
+          "Latitude": 37.753633
+        },
+        {
+          "AirportName": "武宿国际机场",
+          "AirportCode": "TYN",
+          "CityName": "太原",
+          "CityCode": "140100",
+          "Terminal": "T1",
+          "Longitude": 112.631968,
+          "Latitude": 37.754841
+        },
+        {
+          "AirportName": "三女河机场",
+          "AirportCode": "TVS",
+          "CityName": "唐山",
+          "CityCode": "130200",
+          "Longitude": 118.007279,
+          "Latitude": 39.719968
+        },
+        {
+          "AirportName": "驼峰机场",
+          "AirportCode": "TCZ",
+          "CityName": "腾冲",
+          "CityCode": "530500",
+          "Terminal": "T2",
+          "Longitude": 98.48271,
+          "Latitude": 24.934583
+        },
+        {
+          "AirportName": "滨海国际机场",
+          "AirportCode": "TSN",
+          "CityName": "天津",
+          "CityCode": "120000",
+          "Terminal": "T2",
+          "Longitude": 117.364176,
+          "Latitude": 39.129327
+        },
+        {
+          "AirportName": "滨海国际机场",
+          "AirportCode": "TSN",
+          "CityName": "天津",
+          "CityCode": "120000",
+          "Terminal": "T1",
+          "Longitude": 117.359223,
+          "Latitude": 39.129858
+        },
+        {
+          "AirportName": "麦积山机场",
+          "AirportCode": "THQ",
+          "CityName": "天水",
+          "CityCode": "620500",
+          "Longitude": 105.864681,
+          "Latitude": 34.558045
+        },
+        {
+          "AirportName": "通化三源浦机场",
+          "AirportCode": "TNH",
+          "CityName": "通化",
+          "CityCode": "220500",
+          "Longitude": 125.790631,
+          "Latitude": 42.032771
+        },
+        {
+          "AirportName": "通辽机场",
+          "AirportCode": "TGO",
+          "CityName": "通辽",
+          "CityCode": "150500",
+          "Longitude": 122.2062,
+          "Latitude": 43.559157
+        },
+        {
+          "AirportName": "铜仁凤凰机场",
+          "AirportCode": "TEN",
+          "CityName": "铜仁",
+          "CityCode": "520600",
+          "Longitude": 109.314086,
+          "Latitude": 27.882182
+        },
+        {
+          "AirportName": "唐王城机场",
+          "AirportCode": "TWC",
+          "CityName": "图木舒克",
+          "CityCode": "659000",
+          "Longitude": 79.235598,
+          "Latitude": 39.888243
+        },
+        {
+          "AirportName": "交河机场",
+          "AirportCode": "TLQ",
+          "CityName": "吐鲁番",
+          "CityCode": "650400",
+          "Longitude": 89.102215,
+          "Latitude": 43.031604
+        }
+      ]
+    },
+    {
+      "Label": "W",
+      "AirPorts": [
+        {
+          "AirportName": "五桥机场",
+          "AirportCode": "WXN",
+          "CityName": "万州",
+          "CityCode": "500100",
+          "Terminal": "T2",
+          "Longitude": 108.434456,
+          "Latitude": 30.796719
+        },
+        {
+          "AirportName": "大水泊机场",
+          "AirportCode": "WEH",
+          "CityName": "威海",
+          "CityCode": "371000",
+          "Longitude": 122.235047,
+          "Latitude": 37.18592
+        },
+        {
+          "AirportName": "潍坊南苑机场",
+          "AirportCode": "WEF",
+          "CityName": "潍坊",
+          "CityCode": "370700",
+          "Longitude": 119.122379,
+          "Latitude": 36.646808
+        },
+        {
+          "AirportName": "龙湾国际机场",
+          "AirportCode": "WNZ",
+          "CityName": "温州",
+          "CityCode": "330300",
+          "Terminal": "T2",
+          "Longitude": 120.847962,
+          "Latitude": 27.905249
+        },
+        {
+          "AirportName": "龙湾国际机场",
+          "AirportCode": "WNZ",
+          "CityName": "温州",
+          "CityCode": "330300",
+          "Terminal": "T1",
+          "Longitude": 120.851532,
+          "Latitude": 27.911966
+        },
+        {
+          "AirportName": "文山砚山机场",
+          "AirportCode": "WNH",
+          "CityName": "文山",
+          "CityCode": "532600",
+          "Longitude": 104.328079,
+          "Latitude": 23.556375
+        },
+        {
+          "AirportName": "乌海机场",
+          "AirportCode": "WUA",
+          "CityName": "乌海",
+          "CityCode": "150300",
+          "Longitude": 106.805016,
+          "Latitude": 39.794383
+        },
+        {
+          "AirportName": "乌拉特中旗机场",
+          "AirportCode": "WZQ",
+          "CityName": "乌拉特中旗",
+          "CityCode": "150800",
+          "Longitude": 108.384393,
+          "Latitude": 41.696479
+        },
+        {
+          "AirportName": "乌兰察布集宁机场",
+          "AirportCode": "UCB",
+          "CityName": "乌兰察布",
+          "CityCode": "150900",
+          "Longitude": 113.114053,
+          "Latitude": 41.131345
+        },
+        {
+          "AirportName": "乌兰浩特机场",
+          "AirportCode": "HLH",
+          "CityName": "乌兰浩特",
+          "CityCode": "152200",
+          "Longitude": 122.007719,
+          "Latitude": 46.200075
+        },
+        {
+          "AirportName": "地窝堡国际机场",
+          "AirportCode": "URC",
+          "CityName": "乌鲁木齐",
+          "CityCode": "650100",
+          "Terminal": "T1",
+          "Longitude": 87.478368,
+          "Latitude": 43.903317
+        },
+        {
+          "AirportName": "地窝堡国际机场",
+          "AirportCode": "URC",
+          "CityName": "乌鲁木齐",
+          "CityCode": "650100",
+          "Terminal": "T2",
+          "Longitude": 87.472372,
+          "Latitude": 43.902177
+        },
+        {
+          "AirportName": "地窝堡国际机场",
+          "AirportCode": "URC",
+          "CityName": "乌鲁木齐",
+          "CityCode": "650100",
+          "Terminal": "T3",
+          "Longitude": 87.470321,
+          "Latitude": 43.8997
+        },
+        {
+          "AirportName": "苏南硕放国际机场",
+          "AirportCode": "WUX",
+          "CityName": "无锡",
+          "CityCode": "320200",
+          "Terminal": "T1",
+          "Longitude": 120.433098,
+          "Latitude": 31.502904
+        },
+        {
+          "AirportName": "苏南硕放国际机场",
+          "AirportCode": "WUX",
+          "CityName": "无锡",
+          "CityCode": "320200",
+          "Terminal": "T2",
+          "Longitude": 120.434371,
+          "Latitude": 31.505853
+        },
+        {
+          "AirportName": "西江机场",
+          "AirportCode": "WUZ",
+          "CityName": "梧州",
+          "CityCode": "450400",
+          "Longitude": 111.104324,
+          "Latitude": 23.39945
+        },
+        {
+          "AirportName": "五大连池德都机场",
+          "AirportCode": "DTU",
+          "CityName": "五大连池",
+          "CityCode": "231100",
+          "Longitude": 126.138141,
+          "Latitude": 48.444687
+        },
+        {
+          "AirportName": "天河国际机场",
+          "AirportCode": "WUH",
+          "CityName": "武汉",
+          "CityCode": "420100",
+          "Terminal": "T3",
+          "Longitude": 114.219423,
+          "Latitude": 30.772694
+        },
+        {
+          "AirportName": "武夷山机场",
+          "AirportCode": "WUS",
+          "CityName": "武夷山",
+          "CityCode": "350700",
+          "Longitude": 118.005081,
+          "Latitude": 27.69919
+        }
+      ]
+    },
+    {
+      "Label": "X",
+      "AirPorts": [
+        {
+          "AirportName": "咸阳国际机场",
+          "AirportCode": "XIY",
+          "CityName": "西安",
+          "CityCode": "610400",
+          "Terminal": "T1",
+          "Longitude": 108.763097,
+          "Latitude": 34.442616
+        },
+        {
+          "AirportName": "咸阳国际机场",
+          "AirportCode": "XIY",
+          "CityName": "西安",
+          "CityCode": "610400",
+          "Terminal": "T2",
+          "Longitude": 108.759951,
+          "Latitude": 34.440094
+        },
+        {
+          "AirportName": "咸阳国际机场",
+          "AirportCode": "XIY",
+          "CityName": "西安",
+          "CityCode": "610400",
+          "Terminal": "T3",
+          "Longitude": 108.761973,
+          "Latitude": 34.435105
+        },
+        {
+          "AirportName": "青山机场",
+          "AirportCode": "XIC",
+          "CityName": "西昌",
+          "CityCode": "513400",
+          "Longitude": 102.186732,
+          "Latitude": 27.98366
+        },
+        {
+          "AirportName": "曹家堡机场",
+          "AirportCode": "XNN",
+          "CityName": "西宁",
+          "CityCode": "630200",
+          "Terminal": "T2",
+          "Longitude": 102.040045,
+          "Latitude": 36.525275
+        },
+        {
+          "AirportName": "西双版纳嘎洒国际机场",
+          "AirportCode": "JHG",
+          "CityName": "西双版纳",
+          "CityCode": "532800",
+          "Longitude": 100.764783,
+          "Latitude": 21.972406
+        },
+        {
+          "AirportName": "锡林浩特机场",
+          "AirportCode": "XIL",
+          "CityName": "锡林浩特",
+          "CityCode": "152500",
+          "Longitude": 115.966245,
+          "Latitude": 43.914723
+        },
+        {
+          "AirportName": "夏河机场",
+          "AirportCode": "GXH",
+          "CityName": "夏河",
+          "CityCode": "623000",
+          "Longitude": 102.62429,
+          "Latitude": 34.818126
+        },
+        {
+          "AirportName": "高崎国际机场",
+          "AirportCode": "XMN",
+          "CityName": "厦门",
+          "CityCode": "350200",
+          "Terminal": "T3",
+          "Longitude": 118.13111,
+          "Latitude": 24.53454
+        },
+        {
+          "AirportName": "刘集机场",
+          "AirportCode": "XFN",
+          "CityName": "襄阳",
+          "CityCode": "420600",
+          "Terminal": "T2",
+          "Longitude": 112.292482,
+          "Latitude": 32.151257
+        },
+        {
+          "AirportName": "忻州五台山机场",
+          "AirportCode": "WUT",
+          "CityName": "忻州",
+          "CityCode": "140900",
+          "Longitude": 112.98931,
+          "Latitude": 38.597491
+        },
+        {
+          "AirportName": "那拉提机场",
+          "AirportCode": "NLT",
+          "CityName": "新源",
+          "CityCode": "654000",
+          "Longitude": 83.379825,
+          "Latitude": 43.432286
+        },
+        {
+          "AirportName": "兴义万峰林机场",
+          "AirportCode": "ACX",
+          "CityName": "兴义",
+          "CityCode": "522300",
+          "Terminal": "T2",
+          "Longitude": 104.95837,
+          "Latitude": 25.083128
+        },
+        {
+          "AirportName": "兴义万峰林机场",
+          "AirportCode": "ACX",
+          "CityName": "兴义",
+          "CityCode": "522300",
+          "Terminal": "T1",
+          "Longitude": 104.95935,
+          "Latitude": 25.081242
+        },
+        {
+          "AirportName": "观音机场",
+          "AirportCode": "XUZ",
+          "CityName": "徐州",
+          "CityCode": "320300",
+          "Terminal": "T2",
+          "Longitude": 117.557504,
+          "Latitude": 34.053395
+        },
+        {
+          "AirportName": "观音机场",
+          "AirportCode": "XUZ",
+          "CityName": "徐州",
+          "CityCode": "320300",
+          "Terminal": "T1",
+          "Longitude": 117.560287,
+          "Latitude": 34.053621
+        }
+      ]
+    }
+  ],
+  "yz": [
+    {
+      "Label": "Y",
+      "AirPorts": [
+        {
+          "AirportName": "蓬莱国际机场",
+          "AirportCode": "YNT",
+          "CityName": "烟台",
+          "CityCode": "370600",
+          "Longitude": 120.988421,
+          "Latitude": 37.66007
+        },
+        {
+          "AirportName": "南泥湾机场",
+          "AirportCode": "ENY",
+          "CityName": "延安",
+          "CityCode": "610600",
+          "Longitude": 109.471075,
+          "Latitude": 36.479412
+        },
+        {
+          "AirportName": "朝阳川机场",
+          "AirportCode": "YNJ",
+          "CityName": "延吉",
+          "CityCode": "222400",
+          "Longitude": 129.458201,
+          "Latitude": 42.88448
+        },
+        {
+          "AirportName": "南洋机场",
+          "AirportCode": "YNZ",
+          "CityName": "盐城",
+          "CityCode": "320900",
+          "Terminal": "T2",
+          "Longitude": 120.209374,
+          "Latitude": 33.431821
+        },
+        {
+          "AirportName": "南洋机场",
+          "AirportCode": "YNZ",
+          "CityName": "盐城",
+          "CityCode": "320900",
+          "Terminal": "T1",
+          "Longitude": 120.208548,
+          "Latitude": 33.430046
+        },
+        {
+          "AirportName": "扬州泰州机场",
+          "AirportCode": "YTY",
+          "CityName": "扬州",
+          "CityCode": "321000",
+          "Longitude": 119.722642,
+          "Latitude": 32.563345
+        },
+        {
+          "AirportName": "林都机场",
+          "AirportCode": "LDS",
+          "CityName": "伊春",
+          "CityCode": "230700",
+          "Longitude": 129.024026,
+          "Latitude": 47.754447
+        },
+        {
+          "AirportName": "伊宁机场",
+          "AirportCode": "YIN",
+          "CityName": "伊宁",
+          "CityCode": "654000",
+          "Longitude": 81.333342,
+          "Latitude": 43.957238
+        },
+        {
+          "AirportName": "五粮液机场",
+          "AirportCode": "YBP",
+          "CityName": "宜宾",
+          "CityCode": "511500",
+          "Longitude": 104.528071,
+          "Latitude": 28.853245
+        },
+        {
+          "AirportName": "三峡机场",
+          "AirportCode": "YIH",
+          "CityName": "宜昌",
+          "CityCode": "420500",
+          "Longitude": 111.485628,
+          "Latitude": 30.55228
+        },
+        {
+          "AirportName": "宜春明月山机场",
+          "AirportCode": "YIC",
+          "CityName": "宜春",
+          "CityCode": "360900",
+          "Longitude": 114.316176,
+          "Latitude": 27.797545
+        },
+        {
+          "AirportName": "义乌机场",
+          "AirportCode": "YIW",
+          "CityName": "义乌",
+          "CityCode": "330700",
+          "Longitude": 120.035372,
+          "Latitude": 29.340003
+        },
+        {
+          "AirportName": "河东机场",
+          "AirportCode": "INC",
+          "CityName": "银川",
+          "CityCode": "640100",
+          "Terminal": "T3",
+          "Longitude": 106.38747,
+          "Latitude": 38.320536
+        },
+        {
+          "AirportName": "河东机场",
+          "AirportCode": "INC",
+          "CityName": "银川",
+          "CityCode": "640100",
+          "Terminal": "T2",
+          "Longitude": 106.389456,
+          "Latitude": 38.323602
+        },
+        {
+          "AirportName": "河东机场",
+          "AirportCode": "INC",
+          "CityName": "银川",
+          "CityCode": "640100",
+          "Terminal": "T1",
+          "Longitude": 106.390845,
+          "Latitude": 38.325375
+        },
+        {
+          "AirportName": "兰旗机场",
+          "AirportCode": "YKH",
+          "CityName": "营口",
+          "CityCode": "210800",
+          "Longitude": 122.362151,
+          "Latitude": 40.5439
+        },
+        {
+          "AirportName": "零陵机场",
+          "AirportCode": "LLF",
+          "CityName": "永州",
+          "CityCode": "431100",
+          "Longitude": 111.616308,
+          "Latitude": 26.334424
+        },
+        {
+          "AirportName": "榆阳机场",
+          "AirportCode": "UYN",
+          "CityName": "榆林",
+          "CityCode": "610800",
+          "Terminal": "T2",
+          "Longitude": 109.601579,
+          "Latitude": 38.365638
+        },
+        {
+          "AirportName": "榆阳机场",
+          "AirportCode": "UYN",
+          "CityName": "榆林",
+          "CityCode": "610800",
+          "Terminal": "T1",
+          "Longitude": 109.60216,
+          "Latitude": 38.361949
+        },
+        {
+          "AirportName": "玉林福绵机场",
+          "AirportCode": "YLX",
+          "CityName": "玉林",
+          "CityCode": "450900",
+          "Longitude": 110.124841,
+          "Latitude": 22.431498
+        },
+        {
+          "AirportName": "玉树巴塘机场",
+          "AirportCode": "YUS",
+          "CityName": "玉树",
+          "CityCode": "632700",
+          "Longitude": 97.037279,
+          "Latitude": 32.834878
+        },
+        {
+          "AirportName": "三荷机场",
+          "AirportCode": "YYA",
+          "CityName": "岳阳",
+          "CityCode": "430600",
+          "Longitude": 113.286916,
+          "Latitude": 29.309688
+        },
+        {
+          "AirportName": "运城张孝机场",
+          "AirportCode": "YCU",
+          "CityName": "运城",
+          "CityCode": "140800",
+          "Terminal": "T2",
+          "Longitude": 111.043951,
+          "Latitude": 35.113567
+        },
+        {
+          "AirportName": "运城张孝机场",
+          "AirportCode": "YCU",
+          "CityName": "运城",
+          "CityCode": "140800",
+          "Terminal": "T1",
+          "Longitude": 111.04195,
+          "Latitude": 35.113073
+        }
+      ]
+    },
+    {
+      "Label": "Z",
+      "AirPorts": [
+        {
+          "AirportName": "成吉思汗机场",
+          "AirportCode": "NZL",
+          "CityName": "扎兰屯",
+          "CityCode": "150700",
+          "Longitude": 122.773217,
+          "Latitude": 47.869
+        },
+        {
+          "AirportName": "湛江吴川机场",
+          "AirportCode": "ZHA",
+          "CityName": "湛江",
+          "CityCode": "440800",
+          "Longitude": 110.593691,
+          "Latitude": 21.482133
+        },
+        {
+          "AirportName": "荷花机场",
+          "AirportCode": "DYG",
+          "CityName": "张家界",
+          "CityCode": "430800",
+          "Longitude": 110.448105,
+          "Latitude": 29.101444
+        },
+        {
+          "AirportName": "张家口宁远机场",
+          "AirportCode": "ZQZ",
+          "CityName": "张家口",
+          "CityCode": "130700",
+          "Longitude": 114.955467,
+          "Latitude": 40.746445
+        },
+        {
+          "AirportName": "张掖甘州机场",
+          "AirportCode": "YZY",
+          "CityName": "张掖",
+          "CityCode": "620700",
+          "Longitude": 100.671853,
+          "Latitude": 38.80508
+        },
+        {
+          "AirportName": "昭通机场",
+          "AirportCode": "ZAT",
+          "CityName": "昭通",
+          "CityCode": "530600",
+          "Longitude": 103.757674,
+          "Latitude": 27.323525
+        },
+        {
+          "AirportName": "新郑国际机场",
+          "AirportCode": "CGO",
+          "CityName": "郑州",
+          "CityCode": "410100",
+          "Terminal": "T2",
+          "Longitude": 113.855025,
+          "Latitude": 34.525264
+        },
+        {
+          "AirportName": "中山三角机场",
+          "AirportCode": "ZGN",
+          "CityName": "中山",
+          "CityCode": "442000",
+          "Longitude": 113.475305,
+          "Latitude": 22.662646
+        },
+        {
+          "AirportName": "中卫沙坡头机场",
+          "AirportCode": "ZHY",
+          "CityName": "中卫",
+          "CityCode": "640500",
+          "Longitude": 105.158269,
+          "Latitude": 37.572982
+        },
+        {
+          "AirportName": "重庆江北国际机场",
+          "AirportCode": "CKG",
+          "CityName": "重庆",
+          "CityCode": "500000",
+          "Terminal": "T3",
+          "Longitude": 106.655311,
+          "Latitude": 29.709478
+        },
+        {
+          "AirportName": "重庆江北国际机场",
+          "AirportCode": "CKG",
+          "CityName": "重庆",
+          "CityCode": "500000",
+          "Terminal": "T2",
+          "Longitude": 106.63758,
+          "Latitude": 29.71461
+        },
+        {
+          "AirportName": "重庆江北国际机场",
+          "AirportCode": "CKG",
+          "CityName": "重庆",
+          "CityCode": "500000",
+          "Terminal": "T2A",
+          "Longitude": 106.638009,
+          "Latitude": 29.713982
+        },
+        {
+          "AirportName": "重庆江北国际机场",
+          "AirportCode": "CKG",
+          "CityName": "重庆",
+          "CityCode": "500000",
+          "Terminal": "T2B",
+          "Longitude": 106.63852,
+          "Latitude": 29.716996
+        },
+        {
+          "AirportName": "重庆江北国际机场",
+          "AirportCode": "CKG",
+          "CityName": "重庆",
+          "CityCode": "500000",
+          "Terminal": "T2B (国内出发)",
+          "Longitude": 106.63832,
+          "Latitude": 29.717642
+        },
+        {
+          "AirportName": "重庆江北国际机场",
+          "AirportCode": "CKG",
+          "CityName": "重庆",
+          "CityCode": "500000",
+          "Terminal": "T2A (国内出发)",
+          "Longitude": 106.637102,
+          "Latitude": 29.714425
+        },
+        {
+          "AirportName": "重庆巫山机场",
+          "AirportCode": "WSK",
+          "CityName": "重庆",
+          "CityCode": "500000",
+          "Terminal": "T2",
+          "Longitude": 106.63758,
+          "Latitude": 29.71461
+        },
+        {
+          "AirportName": "重庆巫山机场",
+          "AirportCode": "WSK",
+          "CityName": "重庆",
+          "CityCode": "500000",
+          "Terminal": "T3",
+          "Longitude": 106.655311,
+          "Latitude": 29.709478
+        },
+        {
+          "AirportName": "普陀山机场",
+          "AirportCode": "HSN",
+          "CityName": "舟山",
+          "CityCode": "330900",
+          "Longitude": 122.365085,
+          "Latitude": 29.932599
+        },
+        {
+          "AirportName": "金湾机场",
+          "AirportCode": "ZUH",
+          "CityName": "珠海",
+          "CityCode": "440400",
+          "Terminal": "T2",
+          "Longitude": 113.381181,
+          "Latitude": 22.011653
+        },
+        {
+          "AirportName": "新舟机场",
+          "AirportCode": "ZYI",
+          "CityName": "遵义",
+          "CityCode": "520300",
+          "Longitude": 107.251009,
+          "Latitude": 27.807488
+        },
+        {
+          "AirportName": "茅台机场",
+          "AirportCode": "WMT",
+          "CityName": "遵义",
+          "CityCode": "520300",
+          "Longitude": 106.439915,
+          "Latitude": 27.959119
+        }
+      ]
+    }
+  ]
+}

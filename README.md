@@ -10,6 +10,7 @@ TMC(Travel Management Companies)，资料集，中国国内机场城市列表（
 | 航司二字码(中国 共计43条) | [airline-cn.json](https://github.com/Timeon1/TMC_Dataset/blob/master/airline-cn.json) |
 | 航司Logo图片(中国 共计40张) | [asserts/airlineCnImg](https://github.com/Timeon1/TMC_Dataset/tree/master/asserts/airlineCnImg) |
 | 机型三字码 | [planeThreeCode.json](https://github.com/Timeon1/TMC_Dataset/blob/master/planeThreeCode.json) |
+| 机场接机点(国内) | [airport-terminal-cn.json](https://github.com/Timeon1/TMC_Dataset/blob/master/airport-terminal-cn.json) |
 
 
 ***中国城市三字码预览***
@@ -77,4 +78,55 @@ TMC(Travel Management Companies)，资料集，中国国内机场城市列表（
     "UpdateType":null,
     "pd":"P"
 }
+```
+
+***机场接机点(国内)预览***
+```json
+[
+  {
+    "AirportName": "浦东国际机场",
+    "AirportCode": "PVG",
+    "CityName": "上海",
+    "CityCode": "310000",
+    "Terminal": "T2 (国内到达)",
+    "Longitude": 121.808118,
+    "Latitude": 31.151526
+  },
+  {
+    "AirportName": "浦东国际机场",
+    "AirportCode": "PVG",
+    "CityName": "上海",
+    "CityCode": "310000",
+    "Terminal": "T2 (国际港澳台到达)",
+    "Longitude": 121.808905,
+    "Latitude": 31.149461
+  },
+  {
+    "AirportName": "虹桥国际机场",
+    "AirportCode": "SHA",
+    "CityName": "上海",
+    "CityCode": "310000",
+    "Terminal": "T2 (出发南)",
+    "Longitude": 121.327843,
+    "Latitude": 31.192462
+  },
+  {
+    "AirportName": "虹桥国际机场",
+    "AirportCode": "SHA",
+    "CityName": "上海",
+    "CityCode": "310000",
+    "Terminal": "T1",
+    "Longitude": 121.34726,
+    "Latitude": 31.195412
+  },
+  {
+    "AirportName": "虹桥国际机场",
+    "AirportCode": "SHA",
+    "CityName": "上海",
+    "CityCode": "310000",
+    "Terminal": "T2 (出发北)",
+    "Longitude": 121.325606,
+    "Latitude": 31.195008
+  }
+]
 ```
